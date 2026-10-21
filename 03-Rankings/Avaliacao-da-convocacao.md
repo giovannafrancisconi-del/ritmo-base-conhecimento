@@ -48,6 +48,22 @@ Os subitens documentados são:
 
 A regra foi confirmada no comentário de revisão e foi aplicada ao protótipo. Ela não decide as lacunas de negócio registradas nesta base.
 
+## Atualização confirmada da interface
+
+Aplicável ao protótipo móvel:
+
+- A tag positiva antes apresentada como **Saúde** passa a ser exibida como **Primeiros Socorros**.
+- Para avaliações de **1 a 4 estrelas**, os tópicos permanecem os mesmos, mas os subitens de seleção passam a ser:
+
+| Tópico | Subitens atuais no protótipo |
+|---|---|
+| Arbitragem | Comunicação inadequada da arbitragem; falta de imparcialidade nas decisões; má condução da partida; erros nas anotações ou no placar |
+| Evento / Estrutura | Atrasos nos horários da tabela de jogos; baixa qualidade das quadras, do local ou dos equipamentos; falhas de segurança, acessibilidade ou infraestrutura |
+| Suporte / Atendimento | Falta de primeiros socorros disponíveis; ausência de atendimento médico emergencial; falhas de hidratação, higiene ou sanitização |
+| Organização | Falta de divulgação dos resultados dos jogos; falta de divulgação prévia de partidas, horários ou equipes; falta de clareza sobre o local da partida; dificuldade para acessar informações do evento |
+
+O quadro registra uma atualização direta de interface e não substitui o histórico da especificação de origem.
+
 ## Protótipo visual
 
 O protótipo móvel navegável representa: escolha de 1 a 5 estrelas; os oito critérios de 5 estrelas; exibição dos subitens para notas até 4; e confirmação de envio.
@@ -66,7 +82,7 @@ A página de origem contém referências visuais de imagens no Notion.
 
 ## Conexões
 
-[[03-Rankings/Criterios/Atleta]] · [[03-Rankings/Lacunas-da-avaliacao-da-convocacao]] · [[01-Atletas/Participacao-em-convocacao]] · [[90-Fontes/F17-Avaliacao-do-evento-da-convocacao]] · [[90-Fontes/F19-Comentario-1-prototipo-avaliacao]]
+[[03-Rankings/Criterios/Atleta]] · [[03-Rankings/Lacunas-da-avaliacao-da-convocacao]] · [[01-Atletas/Participacao-em-convocacao]] · [[90-Fontes/F17-Avaliacao-do-evento-da-convocacao]] · [[90-Fontes/F19-Comentario-1-prototipo-avaliacao]] · [[90-Fontes/F20-Comentarios-2-e-3-prototipo-avaliacao]]
 
 ## Referência visual implementada
 

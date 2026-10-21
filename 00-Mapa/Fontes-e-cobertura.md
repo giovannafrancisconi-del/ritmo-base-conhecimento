@@ -50,3 +50,5 @@ O manifesto JSON relaciona fontes, hashes e notas dependentes.
 ## Comentário de revisão integrado
 
 [[90-Fontes/F19-Comentario-1-prototipo-avaliacao]] — decisão de interação aplicada ao protótipo da avaliação da convocação.
+
+[[90-Fontes/F20-Comentarios-2-e-3-prototipo-avaliacao]] — atualização das opções visuais e dos subitens exibidos no protótipo da avaliação da convocação.

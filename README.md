@@ -8,9 +8,9 @@ fontes: []
 
 # Base de Conhecimento Ritmo — OKF
 
-Versão 1.4 · 2026-10-20
+Versão 1.5 · 2026-10-21
 
-Este repositório é o cofre da Base de Conhecimento do projeto Ritmo Ranking. Abra sua raiz como cofre no Obsidian e comece por [[00-Mapa/Indice]]. Os links internos usam caminhos a partir da raiz do cofre. O grafo nativo do Obsidian será formado pelos wikilinks; o mapa conceitual também está em Mermaid.
+Abra esta raiz como cofre no Obsidian e comece por [[00-Mapa/Indice]]. Os links internos usam caminhos a partir da raiz do cofre. O grafo nativo do Obsidian será formado pelos wikilinks; o mapa conceitual também está em Mermaid.
 
 ## Arquitetura
 
@@ -27,7 +27,7 @@ Este repositório é o cofre da Base de Conhecimento do projeto Ritmo Ranking. A
 
 ## Limitações desta versão
 
-A planilha de pontuação foi integrada. O vídeo de referência da avaliação de treino foi analisado visualmente, sem transcrição do áudio. A avaliação da convocação registra a regra de interface: cinco estrelas mostram tags; de uma a quatro, tópicos e subitens. Campos vazios, divergências e regras de acúmulo permanecem pendentes. Requisitos de desenvolvimento não são apresentados como entregas confirmadas. Consulte [[00-Mapa/Pendencias]] antes de definir valores ou resolver decisões de Produto.
+A planilha de pontuação foi integrada. O vídeo de referência da avaliação de treino foi analisado visualmente, sem transcrição do áudio. A avaliação da convocação registra as opções atuais do protótipo para avaliações de cinco estrelas e de uma a quatro estrelas. Campos vazios, divergências e regras de acúmulo permanecem pendentes. Requisitos de desenvolvimento não são apresentados como entregas confirmadas. Consulte [[00-Mapa/Pendencias]] antes de definir valores ou resolver decisões de Produto.
 
 ## Grafo de conexões
 

@@ -147,6 +147,7 @@ fontes: []
 - [[90-Fontes/F14-Relatorios]]
 - [[90-Fontes/F15-Manual-Operacional-Financeiro]]
 - [[90-Fontes/F19-Comentario-1-prototipo-avaliacao]]
+- [[90-Fontes/F20-Comentarios-2-e-3-prototipo-avaliacao]]
 
 ## Conexões
 
@@ -165,6 +166,7 @@ fontes: []
 - [[03-Rankings/Avaliacao-da-convocacao]]
 - [[03-Rankings/Lacunas-da-avaliacao-da-convocacao]]
 - [[90-Fontes/F19-Comentario-1-prototipo-avaliacao]]
+- [[90-Fontes/F20-Comentarios-2-e-3-prototipo-avaliacao]]
 
 ## Referência visual
 

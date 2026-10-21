@@ -45,3 +45,9 @@ fontes: []
 - Incorporação do Comentário 1 de revisão do protótipo da avaliação da convocação.
 - Confirmação da apresentação exclusiva: tags para 5 estrelas; tópicos expansíveis e subitens para avaliações de 1 a 4 estrelas.
 - Atualização do protótipo privado e das notas afetadas, sem decidir regras de pontuação ou demais lacunas de negócio.
+
+## Versão 1.5 — 2026-10-21
+
+- Atualização da tag positiva de Saúde para Primeiros Socorros no protótipo.
+- Atualização dos subitens dos quatro tópicos apresentados para avaliações de 1 a 4 estrelas.
+- Registro explícito da origem da alteração como comentário de revisão do protótipo, preservando a especificação anterior como histórico.
