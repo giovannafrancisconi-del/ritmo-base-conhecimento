@@ -358,5 +358,24 @@
       "00-Mapa/Fontes-e-cobertura.md",
       "00-Mapa/Pendencias.md"
     ]
+  },
+  {
+    "id": "F22",
+    "title": "Vídeo de referência visual da plataforma de ranking",
+    "consulted_on": "2026-10-21",
+    "sha256_file": "0e2478187397167de5fdb8a5d8bf4a7917bae8e08a4842e0d76257db52ab9e79",
+    "snapshot": "90-Fontes/F22-Video-referencia-plataforma-ranking.md",
+    "original": "06-Midias/Originais/recording-2026-10-21-20-33-26.webm",
+    "record": "90-Fontes/Registros/F22-Video-referencia-plataforma-ranking.json",
+    "dependent_notes": [
+      "90-Fontes/F22-Video-referencia-plataforma-ranking.md",
+      "03-Rankings/Configuracao-do-ranking-de-equipes.md",
+      "03-Rankings/Criterios/Escola.md",
+      "00-Mapa/Indice.md",
+      "00-Mapa/Fontes-e-cobertura.md",
+      "00-Mapa/Grafo-de-conhecimento.md",
+      "05-Governanca/Registro-de-alteracoes.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
   }
 ]

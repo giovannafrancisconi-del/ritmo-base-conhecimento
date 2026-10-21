@@ -31,6 +31,10 @@ graph TD
   PL["Planilha F21: 3 abas"] --> RA
   PL --> RU
   PL --> RE
+  VC["Configuração: Equipes"] --> RE
+  PL --> VC
+  VR["Vídeo F22: referência visual"] -. "linguagem visual" .-> VC
+  VC -. "próxima etapa" .-> EX
   LP["Lacunas da planilha"] -. "acúmulo, prazos e campos vazios" .-> AP
   AP --> H["Histórico e auditoria"]
   AP --> EX["Exibição nos aplicativos"]
@@ -57,3 +61,9 @@ graph TD
 ## Avaliação da convocação
 
 [[03-Rankings/Avaliacao-da-convocacao]] → [[03-Rankings/Criterios/Atleta]] → [[03-Rankings/Lacunas-da-avaliacao-da-convocacao]]
+
+## Protótipo de configuração
+
+[[03-Rankings/Configuracao-do-ranking-de-equipes]] → [[03-Rankings/Criterios/Escola]] → [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]
+
+[[90-Fontes/F22-Video-referencia-plataforma-ranking]] -. referência visual .-> [[03-Rankings/Configuracao-do-ranking-de-equipes]]

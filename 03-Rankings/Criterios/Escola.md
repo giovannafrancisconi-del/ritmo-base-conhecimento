@@ -43,4 +43,4 @@ Fonte vigente: arquivo enviado **Tarefa (2).xlsx**, aba **Escola**. Os textos fo
 
 ## Conexões
 
-[[90-Fontes/F21-Planilha-de-pontuacao-atualizada]] · [[90-Fontes/F16-Planilha-de-pontuacao]] · [[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Lacunas-da-planilha]] · [[03-Rankings/Avaliacao-da-convocacao]]
+[[90-Fontes/F21-Planilha-de-pontuacao-atualizada]] · [[90-Fontes/F16-Planilha-de-pontuacao]] · [[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Lacunas-da-planilha]] · [[03-Rankings/Avaliacao-da-convocacao]]

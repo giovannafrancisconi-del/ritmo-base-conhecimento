@@ -1,0 +1,11 @@
+{
+  "id": "F22",
+  "title": "Vídeo de referência visual da plataforma de ranking",
+  "file": "06-Midias/Originais/recording-2026-10-21-20-33-26.webm",
+  "sha256_file": "0e2478187397167de5fdb8a5d8bf4a7917bae8e08a4842e0d76257db52ab9e79",
+  "consulted_on": "2026-10-21",
+  "duration_seconds": 112.004,
+  "video": {"codec": "h264", "width": 1864, "height": 934, "fps": 60},
+  "audio": {"codec": "opus", "transcribed": false},
+  "analysis_scope": "referência visual de interface; sem inferência de regras de negócio"
+}

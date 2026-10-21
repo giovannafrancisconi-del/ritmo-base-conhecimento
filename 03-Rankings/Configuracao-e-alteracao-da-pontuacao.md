@@ -21,4 +21,4 @@ fontes: ["https://app.notion.com/p/3fbfe13c365280ef892cde6bc50c9e54?pvs=204"]
 
 ## Conexões
 
-[[03-Rankings/Visao-geral-ranking]] · [[00-Mapa/Pendencias]] · [[90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes]]
+[[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[00-Mapa/Pendencias]] · [[90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes]]

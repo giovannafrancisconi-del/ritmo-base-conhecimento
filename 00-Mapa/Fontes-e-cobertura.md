@@ -31,7 +31,7 @@ Foram consultadas 15 páginas: as 3 fontes principais, 11 subpáginas de Ritmo E
 ## Limites
 
 - As planilhas Tarefa (1).xlsx e Tarefa (2).xlsx foram fornecidas. A F21, integrada na versão 1.6, é a fonte vigente dos critérios extraídos; a F16 permanece como histórico. Campos vazios, limites e ambiguidades continuam pendentes. A identidade de versão com o Google Sheets não foi verificada.
-- O vídeo F18 foi preservado e analisado visualmente como referência de interface; o áudio não foi transcrito.
+- Os vídeos F18 e F22 foram preservados e analisados visualmente como referência de interface; os áudios não foram transcritos.
 - Comentários e discussões não foram recuperados; marcadores de discussão no texto não foram tratados como decisões.
 - Datas de edição são metadados das fontes, e não confirmação de vigência ou implementação.
 - Conteúdo financeiro externo foi preservado como documentação interna da fonte, sem validação independente de tarifas, prazos ou normas.
@@ -54,3 +54,5 @@ O manifesto JSON relaciona fontes, hashes e notas dependentes.
 [[90-Fontes/F19-Comentario-1-prototipo-avaliacao]] — decisão de interação aplicada ao protótipo da avaliação da convocação.
 
 [[90-Fontes/F20-Comentarios-2-e-3-prototipo-avaliacao]] — atualização das opções visuais e dos subitens exibidos no protótipo da avaliação da convocação.
+
+[[90-Fontes/F22-Video-referencia-plataforma-ranking]] — vídeo de referência visual usado no protótipo da configuração do Ranking de Equipes.

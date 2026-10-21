@@ -59,3 +59,11 @@ fontes: []
 - Atualização dos critérios de Usuário e Escola, incluindo fatura de convocação, serviços, faixas mensais de pagamentos no app e avaliação de convocação recebida com 05 estrelas.
 - Registro das regras que deixaram de constar, sem inferir cancelamento de funcionalidades.
 - Atualização de lacunas: os campos antes vazios foram preenchidos, e a divergência entre o exemplo de 70% e a faixa de 60% a 79% foi mantida pendente.
+
+## Versão 1.7 — 2026-10-21
+
+- Integração do vídeo F22 como referência visual da plataforma de Ranking; o original foi preservado e o áudio não foi transcrito.
+- Documentação do protótipo da primeira etapa: Configuração do Ranking de Equipes.
+- Critérios apresentados no protótipo vinculados à aba Escola da planilha F21 vigente.
+- Atualização do índice, da cobertura, do catálogo de mídias e do grafo de conhecimento.
+- A tela foi registrada como protótipo de interface, sem afirmar persistência, autorização, apuração ou visualização do ranking em produção.

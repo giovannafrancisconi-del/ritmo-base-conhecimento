@@ -2,13 +2,13 @@
 title: "Catálogo de mídias"
 tipo: "nota"
 status: "midia-referenciada"
-atualizado_em: "2026-10-20"
+atualizado_em: "2026-10-21"
 fontes: []
 ---
 
 # Catálogo de mídias
 
-Status de todos os vídeos abaixo: **referenciado; não transcrito; não analisado audiovisualmente; arquivo não incluído**. Os endereços `notion-file-block://` são identificadores do Notion, sem garantia de abertura no Obsidian. Use a página de origem para consultar o vídeo.
+Status dos vídeos M001 a M049: **referenciado; não transcrito; não analisado audiovisualmente; arquivo não incluído**. M050 foi preservado e analisado visualmente, sem transcrição do áudio. Os endereços `notion-file-block://` são identificadores do Notion, sem garantia de abertura no Obsidian. Use a página de origem para consultar o vídeo.
 
 ### M001 — Como_realizar_o_cadastro_e_matrcula_no_app_Atletas_(1).mp4
 
@@ -258,6 +258,14 @@ Status de todos os vídeos abaixo: **referenciado; não transcrito; não analisa
 ## Conexões
 
 [[05-Governanca/Manutencao]]
+
+### M050 — recording-2026-10-21-20-33-26.webm
+
+- Origem: vídeo enviado pelo usuário para referência do protótipo de Ranking.
+- Arquivo preservado: [recording-2026-10-21-20-33-26.webm](Originais/recording-2026-10-21-20-33-26.webm).
+- Status: analisado visualmente; áudio não transcrito.
+- Aplicação: linguagem visual e navegação do protótipo de Configuração do Ranking de Equipes.
+- Registro: [[90-Fontes/F22-Video-referencia-plataforma-ranking]].
 
 ## Documento estruturado incorporado
 

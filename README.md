@@ -8,7 +8,7 @@ fontes: []
 
 # Base de Conhecimento Ritmo — OKF
 
-Versão 1.6 · 2026-10-21
+Versão 1.7 · 2026-10-21
 
 Abra esta raiz como cofre no Obsidian e comece por [[00-Mapa/Indice]]. Os links internos usam caminhos a partir da raiz do cofre. O grafo nativo do Obsidian será formado pelos wikilinks; o mapa conceitual também está em Mermaid.
 
@@ -27,7 +27,7 @@ Abra esta raiz como cofre no Obsidian e comece por [[00-Mapa/Indice]]. Os links 
 
 ## Limitações desta versão
 
-A planilha atualizada de pontuação foi integrada e a versão anterior foi preservada como histórico. O vídeo de referência da avaliação de treino foi analisado visualmente, sem transcrição do áudio. A avaliação da convocação registra as opções atuais do protótipo para avaliações de cinco estrelas e de uma a quatro estrelas. Campos vazios, divergências e regras de acúmulo permanecem pendentes. Requisitos de desenvolvimento não são apresentados como entregas confirmadas. Consulte [[00-Mapa/Pendencias]] antes de definir valores ou resolver decisões de Produto.
+A planilha atualizada de pontuação foi integrada e a versão anterior foi preservada como histórico. Os vídeos de referência da avaliação de treino e da plataforma de Ranking foram analisados visualmente, sem transcrição dos áudios. A configuração do Ranking de Equipes foi documentada como protótipo de interface, sem afirmar persistência ou apuração em produção. Campos vazios, divergências e regras de acúmulo permanecem pendentes. Requisitos de desenvolvimento não são apresentados como entregas confirmadas. Consulte [[00-Mapa/Pendencias]] antes de definir valores ou resolver decisões de Produto.
 
 ## Grafo de conexões
 

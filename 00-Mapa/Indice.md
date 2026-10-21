@@ -101,6 +101,7 @@ fontes: []
 - [[03-Rankings/Compatibilidade-Rits]]
 - [[03-Rankings/Configuracao-das-temporadas-pela-escola]]
 - [[03-Rankings/Configuracao-e-alteracao-da-pontuacao]]
+- [[03-Rankings/Configuracao-do-ranking-de-equipes]]
 - [[03-Rankings/Criterios-de-aceite]]
 - [[03-Rankings/Dependencias-e-definicoes-pendentes]]
 - [[03-Rankings/Escopo-do-desenvolvimento]]
@@ -148,6 +149,7 @@ fontes: []
 - [[90-Fontes/F15-Manual-Operacional-Financeiro]]
 - [[90-Fontes/F16-Planilha-de-pontuacao]]
 - [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]
+- [[90-Fontes/F22-Video-referencia-plataforma-ranking]]
 - [[90-Fontes/F19-Comentario-1-prototipo-avaliacao]]
 - [[90-Fontes/F20-Comentarios-2-e-3-prototipo-avaliacao]]
 
@@ -174,4 +176,11 @@ fontes: []
 ## Referência visual
 
 - [[90-Fontes/F18-Video-avaliacao-de-treino]]
+- [[90-Fontes/F22-Video-referencia-plataforma-ranking]]
 - [[06-Midias/Catalogo-de-midias]]
+
+## Protótipo de configuração do Ranking de Equipes
+
+- [[03-Rankings/Configuracao-do-ranking-de-equipes]]
+- [[03-Rankings/Criterios/Escola]]
+- [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]
