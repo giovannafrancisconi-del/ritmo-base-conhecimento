@@ -39,7 +39,7 @@ A fonte especifica o desenvolvimento de três rankings independentes: atletas, u
 
 [[03-Rankings/Compatibilidade-Rits]] · [[00-Mapa/Pendencias]] · [[04-Processos/Matriz-de-relacoes]]
 
-## Planilha integrada — versão 1.1
+## Planilha integrada — versão 1.6
 
 A planilha enviada foi incorporada como fonte complementar. Consulte:
 
@@ -48,8 +48,9 @@ A planilha enviada foi incorporada como fonte complementar. Consulte:
 - [[03-Rankings/Criterios/Escola]]
 - [[03-Rankings/Lacunas-da-planilha]]
 - [[90-Fontes/F16-Planilha-de-pontuacao]]
+- [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]
 
-Os valores preenchidos estão documentados; vigência, acúmulo, limites ausentes e decisões de Produto continuam sujeitos à validação.
+A F21 é a fonte vigente para os critérios extraídos; a F16 permanece como histórico. Os valores preenchidos estão documentados; vigência, acúmulo, limites ausentes e decisões de Produto continuam sujeitos à validação.
 
 ## Avaliação da convocação refinada
 

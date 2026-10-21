@@ -326,5 +326,37 @@
       "03-Rankings/Avaliacao-da-convocacao.md",
       "06-Midias/Catalogo-de-midias.md"
     ]
+  },
+  {
+    "id": "libfile_1e832e51c7308191990afe1fe8c4188b",
+    "title": "Tarefa (2).xlsx",
+    "consulted_on": "2026-10-21",
+    "sha256_file": "b261c93d7c81190bbfa6dd6f4f9558f7bdf2ee265835c4a3023897f3cd2c6962",
+    "snapshot": "90-Fontes/F21-Planilha-de-pontuacao-atualizada.md",
+    "original": "06-Midias/Originais/Tarefa-2.xlsx",
+    "supersedes_for_current_criteria": "90-Fontes/F16-Planilha-de-pontuacao.md",
+    "sheets": [
+      "Atleta",
+      "Usuário",
+      "Escola"
+    ],
+    "dependent_notes": [
+      "90-Fontes/F21-Planilha-de-pontuacao-atualizada.md",
+      "90-Fontes/Registros/F21-Planilha-de-pontuacao-atualizada.json",
+      "03-Rankings/Criterios/Atleta.md",
+      "03-Rankings/Criterios/Usuario.md",
+      "03-Rankings/Criterios/Escola.md",
+      "03-Rankings/Avaliacao-da-convocacao.md",
+      "03-Rankings/Lacunas-da-planilha.md",
+      "03-Rankings/Lacunas-da-avaliacao-da-convocacao.md",
+      "03-Rankings/Visao-geral-ranking.md",
+      "03-Rankings/Compatibilidade-Rits.md",
+      "04-Processos/Matriz-de-relacoes.md",
+      "05-Governanca/Registro-de-alteracoes.md",
+      "06-Midias/Catalogo-de-midias.md",
+      "00-Mapa/Indice.md",
+      "00-Mapa/Fontes-e-cobertura.md",
+      "00-Mapa/Pendencias.md"
+    ]
   }
 ]

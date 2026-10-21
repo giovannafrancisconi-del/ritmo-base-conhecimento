@@ -51,3 +51,11 @@ fontes: []
 - Atualização da tag positiva de Saúde para Primeiros Socorros no protótipo.
 - Atualização dos subitens dos quatro tópicos apresentados para avaliações de 1 a 4 estrelas.
 - Registro explícito da origem da alteração como comentário de revisão do protótipo, preservando a especificação anterior como histórico.
+
+## Versão 1.6 — 2026-10-21
+
+- Integração do arquivo Tarefa (2).xlsx como fonte F21 vigente, preservando a F16 e os dois originais.
+- Confirmação de que a aba Atleta não mudou.
+- Atualização dos critérios de Usuário e Escola, incluindo fatura de convocação, serviços, faixas mensais de pagamentos no app e avaliação de convocação recebida com 05 estrelas.
+- Registro das regras que deixaram de constar, sem inferir cancelamento de funcionalidades.
+- Atualização de lacunas: os campos antes vazios foram preenchidos, e a divergência entre o exemplo de 70% e a faixa de 60% a 79% foi mantida pendente.

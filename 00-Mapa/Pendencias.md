@@ -12,7 +12,7 @@ Nenhuma decisão abaixo foi presumida.
 
 | ID | Pergunta para validação | Impacto |
 |---|---|---|
-| P01 — recebida | Planilha Tarefa (1).xlsx integrada, com as abas Atleta, Usuário e Escola. | Valores preenchidos recuperados; lacunas específicas continuam em [[03-Rankings/Lacunas-da-planilha]]. Identidade de versão com o Google Sheets não verificada. |
+| P01 — recebida | Planilhas Tarefa (1).xlsx e Tarefa (2).xlsx integradas, com as abas Atleta, Usuário e Escola. | F21 é a fonte vigente; valores preenchidos recuperados e diferenças documentadas. Lacunas específicas continuam em [[03-Rankings/Lacunas-da-planilha]]. Identidade de versão com o Google Sheets não verificada. |
 | P02 | Os valores de Rits do guia de atletas continuam válidos para o novo ranking ou serão substituídos? | Vigência e compatibilidade das regras. |
 | P03 | Como bolsistas integrais e parciais participam e concorrem às premiações? | Regra explicitamente dependente de Produto. |
 | P04 | Quais critérios de desempate devem ser aplicados e em qual ordem? | Classificação de participantes empatados. |

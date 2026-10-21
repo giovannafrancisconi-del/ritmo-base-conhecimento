@@ -17,6 +17,10 @@ fontes: ["https://app.notion.com/p/3fffe13c3652804db179d730f13783b5?pvs=204"]
 
 A planilha de critérios prevê **+20 pontos** para “Avaliação do Evento/Convocação” quando o atleta avalia o evento após receber a notificação no dia do evento, e marca esta funcionalidade como “Desenvolver funcionalidade”. Há uma divergência de momento do disparo entre a página de melhoria e a planilha; ela está registrada em [[03-Rankings/Lacunas-da-avaliacao-da-convocacao]].
 
+## Atualização da planilha de pontuação
+
+A fonte atual [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]] mantém o critério do atleta em `Atleta!B15:E15` e acrescenta, para a escola, **+20** quando recebe uma avaliação de convocação com 05 estrelas (`Escola!B17:D17`). Essa inclusão documenta um critério de ranking da escola; não define se os pontos do atleta, da escola e de eventual responsável são acumuláveis.
+
 ## Avaliação de 5 estrelas
 
 | Critério | Descrição documentada |

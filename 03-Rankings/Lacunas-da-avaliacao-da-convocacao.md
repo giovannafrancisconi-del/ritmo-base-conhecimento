@@ -2,7 +2,7 @@
 title: "Lacunas da avaliação da convocação"
 tipo: "nota"
 status: "validacao-pendente"
-atualizado_em: "2026-10-20"
+atualizado_em: "2026-10-21"
 fontes: ["https://app.notion.com/p/3fffe13c3652804db179d730f13783b5?pvs=204"]
 ---
 
@@ -16,7 +16,7 @@ fontes: ["https://app.notion.com/p/3fffe13c3652804db179d730f13783b5?pvs=204"]
 | AC04 | A avaliação é uma nota geral, uma nota por critério ou ambos? | A fonte fala em classificação por estrelas e lista critérios, mas não define o modelo de resposta. |
 | AC05 | Quais subitens correspondem a Fair Play, Nível do Jogo e Comunicação para avaliações de 4 estrelas ou menos? | A lista de subitens não cobre explicitamente esses três critérios. |
 | AC06 | É obrigatória a escolha de um subitem para avaliação até 4 estrelas? | Não informado. |
-| AC07 | Os +20 pontos da planilha são únicos, por avaliação concluída e por qual participante? | Planilha Atleta!B15:E15 define +20 e aponta desenvolvimento; a página fala em ranking do responsável. |
+| AC07 | Como se combinam os +20 pontos por avaliação e por qual participante? | F21 define +20 ao atleta por Avaliação do Evento/Convocação (`Atleta!B15:E15`) e +20 à escola por receber avaliação de convocação com 05 estrelas (`Escola!B17:D17`). A página ainda fala em ranking do responsável, sem definir se ele também pontua, acúmulo ou unidade de contagem. |
 | AC08 | Deve haver texto aberto, anonimato, edição ou exclusão da avaliação? | Não informado. |
 
 Estas lacunas foram mantidas fora do protótipo como decisões de produto pendentes.

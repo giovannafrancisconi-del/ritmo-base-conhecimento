@@ -1,0 +1,1366 @@
+[
+  {
+    "sheet": "Atleta",
+    "rows": [
+      {
+        "row": "1",
+        "cells": [
+          {
+            "cell": "A1",
+            "value": "TIPO",
+            "formula": null
+          },
+          {
+            "cell": "B1",
+            "value": "CRITERIOS DE RANKING",
+            "formula": null
+          },
+          {
+            "cell": "C1",
+            "value": "PONTUAÇÃO",
+            "formula": null
+          },
+          {
+            "cell": "D1",
+            "value": "AÇÃO / APLICAÇÃO",
+            "formula": null
+          },
+          {
+            "cell": "E1",
+            "value": "OBSERVAÇÃO ",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "2",
+        "cells": [
+          {
+            "cell": "A2",
+            "value": "Pagamentos",
+            "formula": null
+          },
+          {
+            "cell": "B2",
+            "value": "Pagamento por Pix",
+            "formula": null
+          },
+          {
+            "cell": "C2",
+            "value": "10.0",
+            "formula": null
+          },
+          {
+            "cell": "D2",
+            "value": "Pagamento de fatura realizado via Pix até a data do vencimento",
+            "formula": null
+          },
+          {
+            "cell": "E2",
+            "value": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "3",
+        "cells": [
+          {
+            "cell": "B3",
+            "value": "Pontualidade de Pagamento",
+            "formula": null
+          },
+          {
+            "cell": "C3",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D3",
+            "value": "Pagamento no dia do vencimento da Fatura (Ex: Vence dia 10, pagou no dia 10)",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "4",
+        "cells": [
+          {
+            "cell": "B4",
+            "value": "Pagamento em atraso",
+            "formula": null
+          },
+          {
+            "cell": "C4",
+            "value": "-10.0",
+            "formula": null
+          },
+          {
+            "cell": "D4",
+            "value": "Pagamento após o vencimento da Fatura (Ex: Vence dia 15, pagou dia 16)",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "5",
+        "cells": [
+          {
+            "cell": "B5",
+            "value": "Pagamento antecipado",
+            "formula": null
+          },
+          {
+            "cell": "C5",
+            "value": "50.0",
+            "formula": null
+          },
+          {
+            "cell": "D5",
+            "value": "Pagamento anterior ao dia de vencimento, independete da forma de pagamento (Ex: Vence dia 20, pagou anterior ao dia 19)",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "6",
+        "cells": [
+          {
+            "cell": "A6",
+            "value": "Chamada",
+            "formula": null
+          },
+          {
+            "cell": "B6",
+            "value": "Pontualidade na chamada",
+            "formula": null
+          },
+          {
+            "cell": "C6",
+            "value": "30.0",
+            "formula": null
+          },
+          {
+            "cell": "D6",
+            "value": "Atleta na priemira vez que o professor/treinador faz chamada",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "7",
+        "cells": [
+          {
+            "cell": "B7",
+            "value": "Atrasado na Chamada",
+            "formula": null
+          },
+          {
+            "cell": "C7",
+            "value": "-10.0",
+            "formula": null
+          },
+          {
+            "cell": "D7",
+            "value": "Atleta incluido após o professor ter feito a chamado",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "8",
+        "cells": [
+          {
+            "cell": "B8",
+            "value": "Avalição de Treino",
+            "formula": null
+          },
+          {
+            "cell": "C8",
+            "value": "30.0",
+            "formula": null
+          },
+          {
+            "cell": "D8",
+            "value": "Atleta fez a avalição do treino ao receber a notificação de avaliação do treino",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "9",
+        "cells": [
+          {
+            "cell": "B9",
+            "value": "Não avaliou o treino",
+            "formula": null
+          },
+          {
+            "cell": "C9",
+            "value": "-10.0",
+            "formula": null
+          },
+          {
+            "cell": "D9",
+            "value": "Atleta não avaliou o treino ao receber a notificação de avaliação do treino",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "10",
+        "cells": [
+          {
+            "cell": "B10",
+            "value": "Justificativa de Falta",
+            "formula": null
+          },
+          {
+            "cell": "C10",
+            "value": "30.0",
+            "formula": null
+          },
+          {
+            "cell": "D10",
+            "value": "Atleta justificou a falta ao receber a notificção de falta",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "11",
+        "cells": [
+          {
+            "cell": "B11",
+            "value": "Falta não justificada",
+            "formula": null
+          },
+          {
+            "cell": "C11",
+            "value": "-10.0",
+            "formula": null
+          },
+          {
+            "cell": "D11",
+            "value": "Atleta não justificou a falta ao receber a notificção de falta",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "12",
+        "cells": [
+          {
+            "cell": "A12",
+            "value": "Convocação",
+            "formula": null
+          },
+          {
+            "cell": "B12",
+            "value": "Convocado em um convocação",
+            "formula": null
+          },
+          {
+            "cell": "C12",
+            "value": "30.0",
+            "formula": null
+          },
+          {
+            "cell": "D12",
+            "value": "Atleta convocado/convidado, incluido na lista da convoção",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "13",
+        "cells": [
+          {
+            "cell": "B13",
+            "value": "Respondeu a convocação",
+            "formula": null
+          },
+          {
+            "cell": "C13",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D13",
+            "value": "Atleta respondeu a convocação, confirmando ou negado a participação",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "14",
+        "cells": [
+          {
+            "cell": "B14",
+            "value": "Confirmou a prença na convocação",
+            "formula": null
+          },
+          {
+            "cell": "C14",
+            "value": "30.0",
+            "formula": null
+          },
+          {
+            "cell": "D14",
+            "value": "Atleta confirmou a convocação recebida",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "15",
+        "cells": [
+          {
+            "cell": "B15",
+            "value": "Avaliação do Evento/Convocação",
+            "formula": null
+          },
+          {
+            "cell": "C15",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D15",
+            "value": "Atleta fez a avalição do evento ao receber a notificação no dia do evento da convocação",
+            "formula": null
+          },
+          {
+            "cell": "E15",
+            "value": "Desenvover funcionalidade",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "16",
+        "cells": [
+          {
+            "cell": "A16",
+            "value": "Documento",
+            "formula": null
+          },
+          {
+            "cell": "B16",
+            "value": "Incluiu um documentação pendente",
+            "formula": null
+          },
+          {
+            "cell": "C16",
+            "value": "30.0",
+            "formula": null
+          },
+          {
+            "cell": "D16",
+            "value": "Atleta inseriu ou renovou um documento pendente solicitado pela escola",
+            "formula": null
+          },
+          {
+            "cell": "E16",
+            "value": "Considerar nova pontuação após o vencimento da documentação",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "17",
+        "cells": [
+          {
+            "cell": "B17",
+            "value": "Não inclusão do documento",
+            "formula": null
+          },
+          {
+            "cell": "C17",
+            "value": "-10.0",
+            "formula": null
+          },
+          {
+            "cell": "D17",
+            "value": "A cada 30 dias, se o documento solicitado estiver pendente, perde os pontos",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "18",
+        "cells": [
+          {
+            "cell": "A18",
+            "value": "Notas PUBLICAS COM DESCRIÇÃO PREENCHIDAS",
+            "formula": null
+          },
+          {
+            "cell": "B18",
+            "value": "Nota de Desempenho e/ou Pessoal 05 estrelas",
+            "formula": null
+          },
+          {
+            "cell": "C18",
+            "value": "30.0",
+            "formula": null
+          },
+          {
+            "cell": "D18",
+            "value": "Quandoa escola adiciona uma nota ao perfil do atleta do tipo \"desempenho ou pessoal\" com classificação 05  estrelas",
+            "formula": null
+          },
+          {
+            "cell": "E18",
+            "value": "Obrigatoriamente as notas devem ser públicas e com anotaçãojustificada incluída para o responsável e escola estar ciente da nota e não correr o risco da escola incluir qualquer tipo de nota apenas para gerar ponto",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "19",
+        "cells": [
+          {
+            "cell": "B19",
+            "value": "Nota de Desempenho e/ou Pessoal  04 estrelas",
+            "formula": null
+          },
+          {
+            "cell": "C19",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D19",
+            "value": "Quandoa escola adiciona uma nota ao perfil do atleta do tipo \"desempenho ou pessoal\" com classificação 04  estrelas",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "20",
+        "cells": [
+          {
+            "cell": "B20",
+            "value": "Nota de Desempenho e/ou Pessoal menor que 04",
+            "formula": null
+          },
+          {
+            "cell": "C20",
+            "value": "-20.0",
+            "formula": null
+          },
+          {
+            "cell": "D20",
+            "value": "Quandoa escola adiciona uma nota ao perfil do atleta do tipo \"desempenho ou pessoal\" com classificação 03, 02 ou 01  estrelas",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "21",
+        "cells": [
+          {
+            "cell": "A21",
+            "value": "Mensagens",
+            "formula": null
+          },
+          {
+            "cell": "B21",
+            "value": "Mensagens visualizar",
+            "formula": null
+          },
+          {
+            "cell": "C21",
+            "value": "5.0",
+            "formula": null
+          },
+          {
+            "cell": "D21",
+            "value": "Quando o atleta visualiza a mensagem ou aviso recebida ",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "22",
+        "cells": [
+          {
+            "cell": "B22",
+            "value": "Mensagem se clicar na mensagem dentro do app",
+            "formula": null
+          },
+          {
+            "cell": "C22",
+            "value": "5.0",
+            "formula": null
+          },
+          {
+            "cell": "D22",
+            "value": "Quando o atleta clica na mensagem ou aviso recebida ",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "23",
+        "cells": [
+          {
+            "cell": "B23",
+            "value": "Clicou no link",
+            "formula": null
+          },
+          {
+            "cell": "C23",
+            "value": "5.0",
+            "formula": null
+          },
+          {
+            "cell": "D23",
+            "value": "Quando o atleta abre/clica no link recebido na mensagem ou aviso recebida ",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "24",
+        "cells": [
+          {
+            "cell": "A24",
+            "value": "Galeria",
+            "formula": null
+          },
+          {
+            "cell": "B24",
+            "value": "Atleta compartilhar um foto",
+            "formula": null
+          },
+          {
+            "cell": "C24",
+            "value": "10.0",
+            "formula": null
+          },
+          {
+            "cell": "D24",
+            "value": "Atleta enviou/compartilhou um foto do treino com a escola*",
+            "formula": null
+          },
+          {
+            "cell": "E24",
+            "value": "A escola tem que confirma a validade da foto para gerar pontos, visando que o atelta pode incluir qualquer foto",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "25",
+        "cells": [
+          {
+            "cell": "A25",
+            "value": "BONIFICAÇÃO",
+            "formula": null
+          },
+          {
+            "cell": "B25",
+            "value": "Atletas matriculado a + de 03 meses",
+            "formula": null
+          },
+          {
+            "cell": "C25",
+            "value": "30.0",
+            "formula": null
+          },
+          {
+            "cell": "D25",
+            "value": "Atleta matriculado na escola a mais de 03 mese ganha pontuação bônus",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "26",
+        "cells": [
+          {
+            "cell": "B26",
+            "value": "Atletas matriculado a + de 06 meses",
+            "formula": null
+          },
+          {
+            "cell": "C26",
+            "value": "60.0",
+            "formula": null
+          },
+          {
+            "cell": "D26",
+            "value": "Atleta matriculado na escola a mais de 06 mese ganha pontuação bônus",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "27",
+        "cells": [
+          {
+            "cell": "B27",
+            "value": "Atletas matriculado a + de 12 meses",
+            "formula": null
+          },
+          {
+            "cell": "C27",
+            "value": "120.0",
+            "formula": null
+          },
+          {
+            "cell": "D27",
+            "value": "Atleta matriculado na escola a mais de 12 mese ganha pontuação bônus",
+            "formula": null
+          }
+        ]
+      }
+    ],
+    "merged_ranges": [
+      "A12:A15",
+      "A16:A17",
+      "A18:A20",
+      "A21:A23",
+      "A25:A27",
+      "A2:A5",
+      "A6:A11",
+      "E18:E20",
+      "E2:E5"
+    ]
+  },
+  {
+    "sheet": "Usuário",
+    "rows": [
+      {
+        "row": "1",
+        "cells": [
+          {
+            "cell": "A1",
+            "value": "TIPO",
+            "formula": null
+          },
+          {
+            "cell": "B1",
+            "value": "CRITERIOS DE RANKING",
+            "formula": null
+          },
+          {
+            "cell": "C1",
+            "value": "PONTUAÇÃO",
+            "formula": null
+          },
+          {
+            "cell": "D1",
+            "value": "AÇÃO / APLICAÇÃO",
+            "formula": null
+          },
+          {
+            "cell": "E1",
+            "value": "OBSERVAÇÃO ",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "2",
+        "cells": [
+          {
+            "cell": "B2",
+            "value": "Deu baixa manual na fatura do atleta",
+            "formula": null
+          },
+          {
+            "cell": "C2",
+            "value": "-20.0",
+            "formula": null
+          },
+          {
+            "cell": "D2",
+            "value": "Usuário deu baixa manual em uma fatura, recebendo pro fora do app",
+            "formula": null
+          },
+          {
+            "cell": "E2",
+            "value": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "3",
+        "cells": [
+          {
+            "cell": "A3",
+            "value": "Chamada",
+            "formula": null
+          },
+          {
+            "cell": "B3",
+            "value": "Fez Chamada",
+            "formula": null
+          },
+          {
+            "cell": "C3",
+            "value": "30.0",
+            "formula": null
+          },
+          {
+            "cell": "D3",
+            "value": "Usuário realizou uma chamda",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "4",
+        "cells": [
+          {
+            "cell": "A4",
+            "value": "Grupos",
+            "formula": null
+          },
+          {
+            "cell": "B4",
+            "value": "Adiconou atleta ao grupo",
+            "formula": null
+          },
+          {
+            "cell": "C4",
+            "value": "10.0",
+            "formula": null
+          },
+          {
+            "cell": "D4",
+            "value": "Usuário incluiu um atleta a uma turma/grupo",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "5",
+        "cells": [
+          {
+            "cell": "A5",
+            "value": "Convocação",
+            "formula": null
+          },
+          {
+            "cell": "B5",
+            "value": "Fez um convocação",
+            "formula": null
+          },
+          {
+            "cell": "C5",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D5",
+            "value": "Usuário realizou um convocação",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "6",
+        "cells": [
+          {
+            "cell": "B6",
+            "value": "Criação de Fatura da convocação",
+            "formula": null
+          },
+          {
+            "cell": "C6",
+            "value": "10.0",
+            "formula": null
+          },
+          {
+            "cell": "D6",
+            "value": "Gerar a fatura d euma convocação",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "7",
+        "cells": [
+          {
+            "cell": "A7",
+            "value": "Notas PUBLICAS COM DESCRIÇÃO PREENCHIDAS",
+            "formula": null
+          },
+          {
+            "cell": "B7",
+            "value": "Nota de Desempenho e/ou Pessoal ",
+            "formula": null
+          },
+          {
+            "cell": "C7",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D7",
+            "value": "Uuário adiciona uma nota ao perfil do atleta do tipo \"desempenho ou pessoal\" com classificação 05  estrelas",
+            "formula": null
+          },
+          {
+            "cell": "E7",
+            "value": "Obrigatoriamente as notas devem ser públicas e com anotaçãojustificada incluída para o responsável e escola estar ciente da nota e não correr o risco da escola incluir qualquer tipo de nota apenas para gerar ponto",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "8",
+        "cells": [
+          {
+            "cell": "A8",
+            "value": "Mensagem",
+            "formula": null
+          },
+          {
+            "cell": "B8",
+            "value": "Envio de aviso/mensagem ",
+            "formula": null
+          },
+          {
+            "cell": "C8",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D8",
+            "value": "Usuário enviou uma mensagem para os atletas",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "9",
+        "cells": [
+          {
+            "cell": "B9",
+            "value": "Responder aviso/mensagem",
+            "formula": null
+          },
+          {
+            "cell": "C9",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D9",
+            "value": "Usuário respondeu uma mensagem dos atletas recebida",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "10",
+        "cells": [
+          {
+            "cell": "A10",
+            "value": "Galeria",
+            "formula": null
+          },
+          {
+            "cell": "B10",
+            "value": "Compartilhar um foto coma atletas",
+            "formula": null
+          },
+          {
+            "cell": "C10",
+            "value": "50.0",
+            "formula": null
+          },
+          {
+            "cell": "D10",
+            "value": "Usuário enviou/compartilhou um foto do treino com os responsáveis",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "11",
+        "cells": [
+          {
+            "cell": "A11",
+            "value": "BONIFICAÇÃO",
+            "formula": null
+          }
+        ]
+      }
+    ],
+    "merged_ranges": [
+      "A11:A13",
+      "A5:A6",
+      "A8:A9"
+    ]
+  },
+  {
+    "sheet": "Escola",
+    "rows": [
+      {
+        "row": "1",
+        "cells": [
+          {
+            "cell": "A1",
+            "value": "TIPO",
+            "formula": null
+          },
+          {
+            "cell": "B1",
+            "value": "CRITERIOS DE RANKING",
+            "formula": null
+          },
+          {
+            "cell": "C1",
+            "value": "PONTUAÇÃO",
+            "formula": null
+          },
+          {
+            "cell": "D1",
+            "value": "AÇÃO / APLICAÇÃO",
+            "formula": null
+          },
+          {
+            "cell": "E1",
+            "value": "OBSERVAÇÃO ",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "2",
+        "cells": [
+          {
+            "cell": "A2",
+            "value": "Pagamentos",
+            "formula": null
+          },
+          {
+            "cell": "B2",
+            "value": "Serviço de NF ",
+            "formula": null
+          },
+          {
+            "cell": "C2",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D2",
+            "value": "Pontuação caso a escola tenha esse serviço ativo com a Ritmo",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "3",
+        "cells": [
+          {
+            "cell": "B3",
+            "value": "Serviço de Seguro",
+            "formula": null
+          },
+          {
+            "cell": "C3",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D3",
+            "value": "Pontuação caso a escola tenha esse serviço ativo com a Ritmo",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "4",
+        "cells": [
+          {
+            "cell": "B4",
+            "value": "Pagemento em dia com a Ritmo",
+            "formula": null
+          },
+          {
+            "cell": "C4",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D4",
+            "value": "Pontuação ",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "5",
+        "cells": [
+          {
+            "cell": "B5",
+            "value": "Pagamentos recebidos no app",
+            "formula": null
+          },
+          {
+            "cell": "C5",
+            "value": "%",
+            "formula": null
+          },
+          {
+            "cell": "D5",
+            "value": "Pontuação mensal por faixa de porcetagem de pagamentos recebidos dentro do app (Ex: Taxa de pagamento no app de 70% ganha 30 pontos)",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "6",
+        "cells": [
+          {
+            "cell": "B6",
+            "value": "Taxa Recebimento no app 100%",
+            "formula": null
+          },
+          {
+            "cell": "C6",
+            "value": "100.0",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "7",
+        "cells": [
+          {
+            "cell": "B7",
+            "value": "Taxa Recebimento no app 80% a 99%",
+            "formula": null
+          },
+          {
+            "cell": "C7",
+            "value": "70.0",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "8",
+        "cells": [
+          {
+            "cell": "B8",
+            "value": "Taxa Recebimento no app de 60% a 79%",
+            "formula": null
+          },
+          {
+            "cell": "C8",
+            "value": "40.0",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "9",
+        "cells": [
+          {
+            "cell": "B9",
+            "value": "Taxa Recebimento no app de abaixo de 59%",
+            "formula": null
+          },
+          {
+            "cell": "C9",
+            "value": "-50.0",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "10",
+        "cells": [
+          {
+            "cell": "B10",
+            "value": "Deu baixa manual na fatura do atleta",
+            "formula": null
+          },
+          {
+            "cell": "C10",
+            "value": "-20.0",
+            "formula": null
+          },
+          {
+            "cell": "D10",
+            "value": "Pontuação por cada recebimento por fora do app, quitando a fatura no perfil do atleta",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "11",
+        "cells": [
+          {
+            "cell": "A11",
+            "value": "Chamada",
+            "formula": null
+          },
+          {
+            "cell": "B11",
+            "value": "Fez Chamada",
+            "formula": null
+          },
+          {
+            "cell": "C11",
+            "value": "30.0",
+            "formula": null
+          },
+          {
+            "cell": "D11",
+            "value": "Pontuação por cada chamada feita",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "12",
+        "cells": [
+          {
+            "cell": "B12",
+            "value": "Avaliação de satisfação menor que 04 estrelas",
+            "formula": null
+          },
+          {
+            "cell": "C12",
+            "value": "-20.0",
+            "formula": null
+          },
+          {
+            "cell": "D12",
+            "value": " Pontuação por cada avaliação recebida",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "13",
+        "cells": [
+          {
+            "cell": "B13",
+            "value": "Não realizou chamada",
+            "formula": null
+          },
+          {
+            "cell": "C13",
+            "value": "-50.0",
+            "formula": null
+          },
+          {
+            "cell": "D13",
+            "value": "Pontuação perdida se não realizou nenhuma chamada dentro de da semana",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "14",
+        "cells": [
+          {
+            "cell": "A14",
+            "value": "Grupos",
+            "formula": null
+          },
+          {
+            "cell": "B14",
+            "value": "Atleta fora do grupo",
+            "formula": null
+          },
+          {
+            "cell": "C14",
+            "value": "-20.0",
+            "formula": null
+          },
+          {
+            "cell": "D14",
+            "value": "Pontuação por cada atleta fora de grupos",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "15",
+        "cells": [
+          {
+            "cell": "B15",
+            "value": "Adiconou atleta ao grupo",
+            "formula": null
+          },
+          {
+            "cell": "C15",
+            "value": "10.0",
+            "formula": null
+          },
+          {
+            "cell": "D15",
+            "value": "incluiu atleta a uma turma",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "16",
+        "cells": [
+          {
+            "cell": "A16",
+            "value": "Convocação",
+            "formula": null
+          },
+          {
+            "cell": "B16",
+            "value": "Fez um convocação",
+            "formula": null
+          },
+          {
+            "cell": "C16",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D16",
+            "value": "Pontuação por cada convocação realizada",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "17",
+        "cells": [
+          {
+            "cell": "B17",
+            "value": "Recebeu uma avaliação de convocação 05 estrelas",
+            "formula": null
+          },
+          {
+            "cell": "C17",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D17",
+            "value": " Pontuação por cada avaliação recebida",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "18",
+        "cells": [
+          {
+            "cell": "A18",
+            "value": "Notas PUBLICAS COM DESCRIÇÃO PREENCHIDAS",
+            "formula": null
+          },
+          {
+            "cell": "B18",
+            "value": "Nota de Desempenho e/ou Pessoal ",
+            "formula": null
+          },
+          {
+            "cell": "C18",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D18",
+            "value": "Pontuação por cada nota adiciona ao perfil de um atleta do tipo \"desempenho ou pessoal\" com classificação 05  estrelas",
+            "formula": null
+          },
+          {
+            "cell": "E18",
+            "value": "Obrigatoriamente as notas devem ser públicas e com anotaçãojustificada incluída para o responsável e escola estar ciente da nota e não correr o risco da escola incluir qualquer tipo de nota apenas para gerar ponto",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "19",
+        "cells": [
+          {
+            "cell": "A19",
+            "value": "Mensagem",
+            "formula": null
+          },
+          {
+            "cell": "B19",
+            "value": "Envio de aviso/mensagem ",
+            "formula": null
+          },
+          {
+            "cell": "C19",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D19",
+            "value": "Pontuação por cada envio de manesagem para os ateltas",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "20",
+        "cells": [
+          {
+            "cell": "B20",
+            "value": "Responder aviso/mensagem",
+            "formula": null
+          },
+          {
+            "cell": "C20",
+            "value": "20.0",
+            "formula": null
+          },
+          {
+            "cell": "D20",
+            "value": "Pontuação por cada respostad de uma mensagem dos atletas recebida",
+            "formula": null
+          }
+        ]
+      },
+      {
+        "row": "21",
+        "cells": [
+          {
+            "cell": "A21",
+            "value": "Galeria",
+            "formula": null
+          },
+          {
+            "cell": "B21",
+            "value": "Compartilhar um foto coma atletas",
+            "formula": null
+          },
+          {
+            "cell": "C21",
+            "value": "50.0",
+            "formula": null
+          },
+          {
+            "cell": "D21",
+            "value": "Pontuação por cada foto do treino compartilhada com os responsáveis",
+            "formula": null
+          }
+        ]
+      }
+    ],
+    "merged_ranges": [
+      "A11:A13",
+      "A14:A15",
+      "A16:A17",
+      "A19:A20",
+      "A2:A10",
+      "D5:D9"
+    ]
+  }
+]

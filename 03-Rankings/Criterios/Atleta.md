@@ -2,13 +2,13 @@
 title: "Critérios de pontuação — Atleta"
 tipo: "nota"
 status: "regra-documentada-na-planilha"
-atualizado_em: "2026-10-20"
-fontes: ["Tarefa (1).xlsx"]
+atualizado_em: "2026-10-21"
+fontes: ["Tarefa (2).xlsx"]
 ---
 
 # Critérios de pontuação — Atleta
 
-Fonte: arquivo enviado **Tarefa (1).xlsx**, aba **Atleta**. Os textos foram preservados, inclusive grafias e lacunas. Células mescladas de tipo e observação são aplicadas somente ao intervalo mesclado original. Célula vazia não representa zero.
+Fonte vigente: arquivo enviado **Tarefa (2).xlsx**, aba **Atleta**. Seu conteúdo e intervalos mesclados são idênticos aos da versão F16. Os textos foram preservados, inclusive grafias e lacunas. Células mescladas de tipo e observação são aplicadas somente ao intervalo mesclado original. Célula vazia não representa zero.
 
 | Linha | Tipo | Critério | Pontos | Ação / aplicação | Observação | Referência |
 |---|---|---|---:|---|---|---|
@@ -48,7 +48,7 @@ Fonte: arquivo enviado **Tarefa (1).xlsx**, aba **Atleta**. Os textos foram pres
 
 ## Conexões
 
-[[90-Fontes/F16-Planilha-de-pontuacao]] · [[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Lacunas-da-planilha]]
+[[90-Fontes/F21-Planilha-de-pontuacao-atualizada]] · [[90-Fontes/F16-Planilha-de-pontuacao]] · [[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Lacunas-da-planilha]]
 
 ## Relação com avaliação da convocação
 

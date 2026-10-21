@@ -2,7 +2,7 @@
 title: "Grafo de conhecimento"
 tipo: "nota"
 status: "mapeamento-documental"
-atualizado_em: "2026-10-20"
+atualizado_em: "2026-10-21"
 fontes: ["https://app.notion.com/p/3fbfe13c365280ef892cde6bc50c9e54?pvs=204", "https://app.notion.com/p/331fe13c3652805a9411e3206c31208b?pvs=204", "https://app.notion.com/p/328fe13c3652807b88ebd5f2041eddc6?pvs=204"]
 ---
 
@@ -21,13 +21,14 @@ graph TD
   OP --> RA
   AV["Avaliação da convocação"] -. "requisito" .-> RA
   AV --> CR["Estrelas e critérios"]
-  CR -. "4 estrelas ou menos" .-> SI["Subitens"]["Ranking de atletas"]
+  CR -. "4 estrelas ou menos" .-> SI["Subitens"]
+  SI --> RA
   GE --> RU["Ranking de usuários"]
   GE --> RE["Ranking de escolas"]
   RA --> AP["Apuração mensal e por temporada"]
   RU --> AP
   RE --> AP
-  PL["Planilha integrada: 3 abas"] --> RA
+  PL["Planilha F21: 3 abas"] --> RA
   PL --> RU
   PL --> RE
   LP["Lacunas da planilha"] -. "acúmulo, prazos e campos vazios" .-> AP
@@ -51,7 +52,7 @@ graph TD
 
 ## Regras numéricas e validações
 
-[[03-Rankings/Criterios/Atleta]] · [[03-Rankings/Criterios/Usuario]] · [[03-Rankings/Criterios/Escola]] · [[03-Rankings/Lacunas-da-planilha]]
+[[03-Rankings/Criterios/Atleta]] · [[03-Rankings/Criterios/Usuario]] · [[03-Rankings/Criterios/Escola]] · [[03-Rankings/Lacunas-da-planilha]] · [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]
 
 ## Avaliação da convocação
 

@@ -30,7 +30,7 @@ Foram consultadas 15 páginas: as 3 fontes principais, 11 subpáginas de Ritmo E
 
 ## Limites
 
-- A planilha Tarefa (1).xlsx foi fornecida e integrada na versão 1.1. Seus valores preenchidos estão documentados; campos vazios, limites e ambiguidades continuam pendentes. A identidade de versão com o Google Sheets não foi verificada.
+- As planilhas Tarefa (1).xlsx e Tarefa (2).xlsx foram fornecidas. A F21, integrada na versão 1.6, é a fonte vigente dos critérios extraídos; a F16 permanece como histórico. Campos vazios, limites e ambiguidades continuam pendentes. A identidade de versão com o Google Sheets não foi verificada.
 - O vídeo F18 foi preservado e analisado visualmente como referência de interface; o áudio não foi transcrito.
 - Comentários e discussões não foram recuperados; marcadores de discussão no texto não foram tratados como decisões.
 - Datas de edição são metadados das fontes, e não confirmação de vigência ou implementação.
@@ -44,7 +44,9 @@ O manifesto JSON relaciona fontes, hashes e notas dependentes.
 
 ## Fonte complementar recebida
 
-[[90-Fontes/F16-Planilha-de-pontuacao]] — planilha com 3 abas. A base agora reúne 15 páginas do Notion e 1 arquivo Excel. O original foi preservado no pacote e os critérios possuem referências de célula.
+[[90-Fontes/F16-Planilha-de-pontuacao]] — versão histórica da planilha com 3 abas.
+
+[[90-Fontes/F21-Planilha-de-pontuacao-atualizada]] — versão atual da planilha com 3 abas; o original foi preservado no pacote e os critérios possuem referências de célula.
 
 
 ## Comentário de revisão integrado

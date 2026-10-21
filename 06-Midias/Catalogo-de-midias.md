@@ -265,6 +265,12 @@ Status de todos os vídeos abaixo: **referenciado; não transcrito; não analisa
 - Status: original preservado; 3 abas lidas; critérios integrados.
 - Registro: [[90-Fontes/F16-Planilha-de-pontuacao]].
 
+## Documento estruturado atualizado — versão 1.6
+
+- Arquivo Excel: [Tarefa-2.xlsx](Originais/Tarefa-2.xlsx).
+- Status: original preservado; 3 abas lidas; critérios atuais integrados.
+- Registro: [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]].
+
 ## Vídeo de referência visual — versão 1.3
 
 - [recording-2026-10-20-22-14-38.mp4](Originais/recording-2026-10-20-22-14-38.mp4)

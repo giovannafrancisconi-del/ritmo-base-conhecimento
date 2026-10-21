@@ -8,7 +8,7 @@ fontes: []
 
 # Base de Conhecimento Ritmo — OKF
 
-Versão 1.5 · 2026-10-21
+Versão 1.6 · 2026-10-21
 
 Abra esta raiz como cofre no Obsidian e comece por [[00-Mapa/Indice]]. Os links internos usam caminhos a partir da raiz do cofre. O grafo nativo do Obsidian será formado pelos wikilinks; o mapa conceitual também está em Mermaid.
 
@@ -27,7 +27,7 @@ Abra esta raiz como cofre no Obsidian e comece por [[00-Mapa/Indice]]. Os links 
 
 ## Limitações desta versão
 
-A planilha de pontuação foi integrada. O vídeo de referência da avaliação de treino foi analisado visualmente, sem transcrição do áudio. A avaliação da convocação registra as opções atuais do protótipo para avaliações de cinco estrelas e de uma a quatro estrelas. Campos vazios, divergências e regras de acúmulo permanecem pendentes. Requisitos de desenvolvimento não são apresentados como entregas confirmadas. Consulte [[00-Mapa/Pendencias]] antes de definir valores ou resolver decisões de Produto.
+A planilha atualizada de pontuação foi integrada e a versão anterior foi preservada como histórico. O vídeo de referência da avaliação de treino foi analisado visualmente, sem transcrição do áudio. A avaliação da convocação registra as opções atuais do protótipo para avaliações de cinco estrelas e de uma a quatro estrelas. Campos vazios, divergências e regras de acúmulo permanecem pendentes. Requisitos de desenvolvimento não são apresentados como entregas confirmadas. Consulte [[00-Mapa/Pendencias]] antes de definir valores ou resolver decisões de Produto.
 
 ## Grafo de conexões
 
@@ -42,13 +42,14 @@ graph TD
   OP --> RA
   AV["Avaliação da convocação"] -. "requisito" .-> RA
   AV --> CR["Estrelas e critérios"]
-  CR -. "4 estrelas ou menos" .-> SI["Subitens"]["Ranking de atletas"]
+  CR -. "4 estrelas ou menos" .-> SI["Subitens"]
+  SI --> RA
   GE --> RU["Ranking de usuários"]
   GE --> RE["Ranking de escolas"]
   RA --> AP["Apuração mensal e por temporada"]
   RU --> AP
   RE --> AP
-  PL["Planilha integrada: 3 abas"] --> RA
+  PL["Planilha F21: 3 abas"] --> RA
   PL --> RU
   PL --> RE
   LP["Lacunas da planilha"] -. "acúmulo, prazos e campos vazios" .-> AP

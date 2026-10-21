@@ -146,6 +146,8 @@ fontes: []
 - [[90-Fontes/F13-Pre-Cadastros]]
 - [[90-Fontes/F14-Relatorios]]
 - [[90-Fontes/F15-Manual-Operacional-Financeiro]]
+- [[90-Fontes/F16-Planilha-de-pontuacao]]
+- [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]
 - [[90-Fontes/F19-Comentario-1-prototipo-avaliacao]]
 - [[90-Fontes/F20-Comentarios-2-e-3-prototipo-avaliacao]]
 
@@ -153,12 +155,13 @@ fontes: []
 
 [[05-Governanca/Registro-de-alteracoes]]
 
-## Integração da planilha — versão 1.1
+## Integração da planilha — versão 1.6
 
 - [[03-Rankings/Criterios/Atleta]]
 - [[03-Rankings/Criterios/Usuario]]
 - [[03-Rankings/Criterios/Escola]]
 - [[90-Fontes/F16-Planilha-de-pontuacao]]
+- [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]
 - [[03-Rankings/Lacunas-da-planilha]]
 
 ## Avaliação da convocação

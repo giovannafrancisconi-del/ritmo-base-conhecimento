@@ -34,4 +34,4 @@ A tabela relaciona módulos operacionais e eventos previstos na especificação.
 
 [[03-Rankings/Criterios/Atleta]] · [[03-Rankings/Criterios/Usuario]] · [[03-Rankings/Criterios/Escola]]
 
-A planilha adiciona Serviço de NF, Serviço de Seguro, pagamento em dia com a Ritmo e criação de fatura da convocação. Alguns destes itens estão incompletos; consulte [[03-Rankings/Lacunas-da-planilha]].
+A planilha vigente inclui Serviço de NF, Serviço de Seguro, pagamento em dia com a Ritmo e criação de fatura da convocação. Para escola, pagamentos recebidos no app usam faixas mensais por percentual e a avaliação de convocação com 05 estrelas é um critério próprio. Consulte [[03-Rankings/Lacunas-da-planilha]].

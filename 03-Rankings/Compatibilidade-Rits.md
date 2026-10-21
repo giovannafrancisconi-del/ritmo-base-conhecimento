@@ -43,4 +43,4 @@ A especificação do novo ranking remete à planilha nas abas Atleta, Usuário e
 
 As ações de chamada e convocação têm descrições diferentes entre as fontes. A comparação não estabelece equivalência de gatilhos nem autoriza somar pontuações. Os valores do guia são preservados como registro da fonte; a planilha é documentada separadamente até validação de vigência.
 
-Fonte complementar: [[90-Fontes/F16-Planilha-de-pontuacao]].
+Fonte complementar vigente: [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]. A aba Atleta da F21 é idêntica à F16, portanto a comparação desta nota não foi alterada.
