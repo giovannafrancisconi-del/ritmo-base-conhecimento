@@ -1,0 +1,330 @@
+[
+  {
+    "id": "3fbfe13c365280ef892cde6bc50c9e54",
+    "title": "Ranking de pontuação: Atletas, Usuários e Equipes",
+    "url": "https://app.notion.com/p/3fbfe13c365280ef892cde6bc50c9e54?pvs=204",
+    "last_edited": "2026-10-20T15:15:27.485Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "92c7b9f66f3c9f3eca0eac5612178a1f0a61bde988ba926c58e5dd0e4cd4b080",
+    "snapshot": "90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes.md",
+    "dependent_notes": [
+      "90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes.md",
+      "03-Rankings/Objetivo.md",
+      "03-Rankings/Escopo-do-desenvolvimento.md",
+      "03-Rankings/Regras-de-pontuacao.md",
+      "03-Rankings/Ranking-de-Atletas.md",
+      "03-Rankings/Ranking-de-Usuarios.md",
+      "03-Rankings/Ranking-de-Escolas.md",
+      "03-Rankings/Periodicidade-e-temporadas.md",
+      "03-Rankings/Configuracao-das-temporadas-pela-escola.md",
+      "03-Rankings/Premiacoes.md",
+      "03-Rankings/Atletas-bolsistas.md",
+      "03-Rankings/Configuracao-e-alteracao-da-pontuacao.md",
+      "03-Rankings/Ritmo-Equipes-visao-da-escola.md",
+      "03-Rankings/Ritmo-Atletas-visao-do-responsavel.md",
+      "03-Rankings/Requisitos-tecnicos-e-funcionais.md",
+      "03-Rankings/Criterios-de-aceite.md",
+      "03-Rankings/Dependencias-e-definicoes-pendentes.md",
+      "03-Rankings/Visao-geral-ranking.md",
+      "03-Rankings/Compatibilidade-Rits.md",
+      "00-Mapa/Pendencias.md",
+      "04-Processos/Matriz-de-relacoes.md"
+    ]
+  },
+  {
+    "id": "331fe13c3652805a9411e3206c31208b",
+    "title": "Ritmo Atletas- Atualizado ",
+    "url": "https://app.notion.com/p/331fe13c3652805a9411e3206c31208b?pvs=204",
+    "last_edited": "2026-06-12T21:01:36.327Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "c64ac7d7629f1aeca60214fb734a6a97da335e96ed5165b970a57dad1245ccf1",
+    "snapshot": "90-Fontes/F02-Ritmo-Atletas-Atualizado.md",
+    "dependent_notes": [
+      "90-Fontes/F02-Ritmo-Atletas-Atualizado.md",
+      "01-Atletas/Passo-a-Passo-Cadastro-de-Responsavel-e-Atleta.md",
+      "01-Atletas/1-Criando-sua-Conta.md",
+      "01-Atletas/2-Perfil-do-Atleta.md",
+      "01-Atletas/3-Realizando-a-Matricula-Vinculo-com-a-Escola.md",
+      "01-Atletas/4-Proximos-Passos.md",
+      "01-Atletas/2-Financeiro-Pagamento-de-Fatura.md",
+      "01-Atletas/3-Comunicacao-Enviar-Mensagem-para-a-Escola.md",
+      "01-Atletas/4-Gestao-de-Perfil-Convidar-Novo-Responsavel.md",
+      "01-Atletas/5-Documentacao-Anexar-Documentos-Obrigatorios.md",
+      "01-Atletas/6-Adicionar-Mais-uma-Equipe.md",
+      "01-Atletas/7-Encerramento-Solicitar-Cancelamento-de-Matricula.md",
+      "01-Atletas/1-Selecao-de-Atleta-e-Equipe.md",
+      "01-Atletas/2-Feed-Pagina-Inicial.md",
+      "01-Atletas/3-Menu-Lateral-Funcionalidades-Principais.md",
+      "01-Atletas/4-Perfil-do-Atleta-Menu-Superior-Direito.md",
+      "01-Atletas/Adicionar-novo-Atleta.md",
+      "01-Atletas/Cadastro-adicional-de-atleta.md",
+      "01-Atletas/Rits-no-guia-de-atletas.md",
+      "01-Atletas/Compras-na-Ritmo-Store.md",
+      "01-Atletas/Participacao-em-convocacao.md",
+      "01-Atletas/Ritmo-Atletas.md",
+      "03-Rankings/Compatibilidade-Rits.md",
+      "00-Mapa/Pendencias.md",
+      "04-Processos/Matriz-de-relacoes.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "328fe13c3652807b88ebd5f2041eddc6",
+    "title": "🏁 Ritmo Equipe - Atualizado ",
+    "url": "https://app.notion.com/p/328fe13c3652807b88ebd5f2041eddc6?pvs=204",
+    "last_edited": "2026-07-14T20:00:00.117Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "7d99a28bcca646f60c4d168b6ac49a7e67f61024d64455423253ad1258b8d672",
+    "snapshot": "90-Fontes/F03-Ritmo-Equipe-Atualizado.md",
+    "dependent_notes": [
+      "90-Fontes/F03-Ritmo-Equipe-Atualizado.md",
+      "02-Equipes/Ritmo-Equipes.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/329fe13c365280c096b9d8780b176045",
+    "title": "📲 Dash",
+    "url": "https://app.notion.com/p/329fe13c365280c096b9d8780b176045?pvs=204",
+    "last_edited": "2026-07-14T20:20:00.270Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "5d5fac18f8fe835845af27486acec8ead9384ccfaf63cc3c72bc5297f25675d0",
+    "snapshot": "90-Fontes/F04-Dash.md",
+    "dependent_notes": [
+      "90-Fontes/F04-Dash.md",
+      "02-Equipes/Dash/CARD-de-Recados-dos-Atletas.md",
+      "02-Equipes/Dash/CARD-Aprovacao-de-Matricula-de-Atletas.md",
+      "02-Equipes/Dash/CARD-Solicitacao-de-Cancelamento-de-Atletas.md",
+      "02-Equipes/Dash/Como-Fazer-retirado-do-Financeiro-Dentro-do-Dash-aparece-o-saldo-na-certeira.md",
+      "02-Equipes/Dash.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/328fe13c36528057879afd6830350075",
+    "title": "🏅 Atletas",
+    "url": "https://app.notion.com/p/328fe13c36528057879afd6830350075?pvs=204",
+    "last_edited": "2026-04-24T20:11:00.621Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "87b2d1a563b0cbbc1d5597ca6d809d22e7b0864bd176e1b98fcc56c31947f576",
+    "snapshot": "90-Fontes/F05-Atletas.md",
+    "dependent_notes": [
+      "90-Fontes/F05-Atletas.md",
+      "02-Equipes/Atletas/Perfil-do-Atleta.md",
+      "02-Equipes/Atletas/Geral-Faturas-no-Perfil-Atletas.md",
+      "02-Equipes/Atletas/Geral-Contrato-Planos-no-Perfil-Atletas.md",
+      "02-Equipes/Atletas/Notas-do-Atleta.md",
+      "02-Equipes/Atletas.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/32cfe13c365280e7a931e8b6b35d501b",
+    "title": "🎏 Categorias",
+    "url": "https://app.notion.com/p/32cfe13c365280e7a931e8b6b35d501b?pvs=204",
+    "last_edited": "2026-05-07T19:10:58.667Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "95766292caf69217249acb02c7b1cf0b19b73b1f1d9c0de9e41b72fbb2d6ef91",
+    "snapshot": "90-Fontes/F06-Categorias.md",
+    "dependent_notes": [
+      "90-Fontes/F06-Categorias.md",
+      "02-Equipes/Categorias.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/329fe13c3652808cbd8cc8ecba1a08ff",
+    "title": "👥 Grupos",
+    "url": "https://app.notion.com/p/329fe13c3652808cbd8cc8ecba1a08ff?pvs=204",
+    "last_edited": "2026-05-12T14:44:43.021Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "8680dbf5c349b229a4484f0cfb8a4c46e5bd21af26b6d0543d88110eda26cd06",
+    "snapshot": "90-Fontes/F07-Grupos.md",
+    "dependent_notes": [
+      "90-Fontes/F07-Grupos.md",
+      "02-Equipes/Grupos/Geral-Grupos.md",
+      "02-Equipes/Grupos/Adicionar-Contrato-Esconder-Plano.md",
+      "02-Equipes/Grupos/Adicionar-Documentos.md",
+      "02-Equipes/Grupos/Adicionar-Fatura-Avulsa.md",
+      "02-Equipes/Grupos/Adicionar-Excluir-atleta-do-Grupo.md",
+      "02-Equipes/Grupos.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/329fe13c365280ae840fed5ab387dd73",
+    "title": "📨 Notificações e Convocações",
+    "url": "https://app.notion.com/p/329fe13c365280ae840fed5ab387dd73?pvs=204",
+    "last_edited": "2026-07-14T20:01:40.789Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "ee06f897ef91715b15abb2fe1c34fa38fcfa7f5624e4ece562b667f6bb33ecbf",
+    "snapshot": "90-Fontes/F08-Notificacoes-e-Convocacoes.md",
+    "dependent_notes": [
+      "90-Fontes/F08-Notificacoes-e-Convocacoes.md",
+      "02-Equipes/Notificacoes-e-Convocacoes/Notificacoes.md",
+      "02-Equipes/Notificacoes-e-Convocacoes/Convocacao.md",
+      "02-Equipes/Notificacoes-e-Convocacoes.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/328fe13c365280eab1f7c6669713ec98",
+    "title": "✅ Chamadas",
+    "url": "https://app.notion.com/p/328fe13c365280eab1f7c6669713ec98?pvs=204",
+    "last_edited": "2026-05-07T19:42:20.239Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "8652340e81eea4aa8fa2af22d9ee66fc1f8b207f43468dade1ecc040503d6bce",
+    "snapshot": "90-Fontes/F09-Chamadas.md",
+    "dependent_notes": [
+      "90-Fontes/F09-Chamadas.md",
+      "02-Equipes/Chamadas/Planejar-Aula.md",
+      "02-Equipes/Chamadas/Geral-Chamada.md",
+      "02-Equipes/Chamadas.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/329fe13c3652803c8231cde09dcdcf50",
+    "title": "🪙 Financeiro",
+    "url": "https://app.notion.com/p/329fe13c3652803c8231cde09dcdcf50?pvs=204",
+    "last_edited": "2026-05-08T16:39:00.105Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "4904e1d13775347558adb91b17e0e8a71c36cd64db2836750a8e3077469e53a4",
+    "snapshot": "90-Fontes/F10-Financeiro.md",
+    "dependent_notes": [
+      "90-Fontes/F10-Financeiro.md",
+      "02-Equipes/Financeiro/Manual-Visualizacao-Geral-do-seu-Financeiro.md",
+      "02-Equipes/Financeiro/Como-adicionar-valores-de-Receita-Despesa.md",
+      "02-Equipes/Financeiro/Visualizar-e-Cobrar-Atletas-Inadimplentes.md",
+      "02-Equipes/Financeiro/Negativacao-de-Atleta-Inadimplente-ASAAS.md",
+      "02-Equipes/Financeiro.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/32cfe13c365280b98fcef63c389872da",
+    "title": "📸 Galeria",
+    "url": "https://app.notion.com/p/32cfe13c365280b98fcef63c389872da?pvs=204",
+    "last_edited": "2026-06-12T21:51:27.672Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "89c91c692a95e335513ba211c73fdfb734712bb5c08bdc66def1355c35c2f6af",
+    "snapshot": "90-Fontes/F11-Galeria.md",
+    "dependent_notes": [
+      "90-Fontes/F11-Galeria.md",
+      "02-Equipes/Galeria.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/329fe13c3652803194e9db38ce88936f",
+    "title": "⚙️ Configurações",
+    "url": "https://app.notion.com/p/329fe13c3652803194e9db38ce88936f?pvs=204",
+    "last_edited": "2026-07-14T20:08:13.716Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "6573d58ccda910220b8b196760324058a132995aa8f551f49b4b46ed440abeb3",
+    "snapshot": "90-Fontes/F12-Configuracoes.md",
+    "dependent_notes": [
+      "90-Fontes/F12-Configuracoes.md",
+      "02-Equipes/Configuracoes/Minha-Assinatura.md",
+      "02-Equipes/Configuracoes/Configuracoes-de-Documentos.md",
+      "02-Equipes/Configuracoes/Colaboradores.md",
+      "02-Equipes/Configuracoes/Planos.md",
+      "02-Equipes/Configuracoes/Dados-de-Transferencia.md",
+      "02-Equipes/Configuracoes.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/328fe13c36528011919dd67d65504df3",
+    "title": "📝 Pré-Cadastros",
+    "url": "https://app.notion.com/p/328fe13c36528011919dd67d65504df3?pvs=204",
+    "last_edited": "2026-04-24T16:01:07.285Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "e776b0cf495e265823b94cc99227de40bb80714fd220b7089f7532dc2bf4f8d9",
+    "snapshot": "90-Fontes/F13-Pre-Cadastros.md",
+    "dependent_notes": [
+      "90-Fontes/F13-Pre-Cadastros.md",
+      "02-Equipes/Pre-Cadastros/Pre-Cadastro-de-Atletas.md",
+      "02-Equipes/Pre-Cadastros.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/39dfe13c365280b28e52e60de41e75f0",
+    "title": "📊 Relatórios",
+    "url": "https://app.notion.com/p/39dfe13c365280b28e52e60de41e75f0?pvs=204",
+    "last_edited": "2026-07-14T20:17:29.269Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "f3ae6eee2146118fd48b1ed93f31445009efce450e42a241f88e109b7e9681c0",
+    "snapshot": "90-Fontes/F14-Relatorios.md",
+    "dependent_notes": [
+      "90-Fontes/F14-Relatorios.md",
+      "02-Equipes/Relatorios.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  },
+  {
+    "id": "https://app.notion.com/p/352fe13c365280acbddbfbd6165da4b8",
+    "title": "💸 Manual Operacional – Financeiro",
+    "url": "https://app.notion.com/p/352fe13c365280acbddbfbd6165da4b8?pvs=204",
+    "last_edited": "2026-04-30T20:55:03.790Z",
+    "consulted_on": "2026-10-20",
+    "sha256_content": "7fdf5d869f0f1aad2e3e52b0f976c2e8a3fb23d7fdaad9afd341a0c859aee48f",
+    "snapshot": "90-Fontes/F15-Manual-Operacional-Financeiro.md",
+    "dependent_notes": [
+      "90-Fontes/F15-Manual-Operacional-Financeiro.md",
+      "02-Equipes/Manual-Operacional-Financeiro.md"
+    ]
+  },
+  {
+    "id": "libfile_7e61ce94204081919d3e7ec7254c5ede",
+    "title": "Tarefa (1).xlsx",
+    "consulted_on": "2026-10-20",
+    "sha256_file": "b959801e0ea7916f813ba88c03ec1f25a8061e74b78d7b07176ad0630bb5cdc3",
+    "snapshot": "90-Fontes/F16-Planilha-de-pontuacao.md",
+    "original": "06-Midias/Originais/Tarefa-1.xlsx",
+    "sheets": [
+      "Atleta",
+      "Usuário",
+      "Escola"
+    ],
+    "dependent_notes": [
+      "03-Rankings/Lacunas-da-planilha.md",
+      "03-Rankings/Visao-geral-ranking.md",
+      "03-Rankings/Compatibilidade-Rits.md",
+      "05-Governanca/Registro-de-alteracoes.md",
+      "00-Mapa/Indice.md",
+      "00-Mapa/Pendencias.md",
+      "00-Mapa/Fontes-e-cobertura.md",
+      "90-Fontes/F16-Planilha-de-pontuacao.md",
+      "06-Midias/Catalogo-de-midias.md",
+      "03-Rankings/Criterios/Usuario.md",
+      "03-Rankings/Criterios/Escola.md",
+      "03-Rankings/Criterios/Atleta.md"
+    ]
+  },
+  {
+    "id": "3fffe13c3652804db179d730f13783b5",
+    "title": "Avaliação do evento da convocação",
+    "url": "https://app.notion.com/p/3fffe13c3652804db179d730f13783b5?pvs=204",
+    "consulted_on": "2026-10-20",
+    "snapshot": "90-Fontes/F17-Avaliacao-do-evento-da-convocacao.md",
+    "status_at_consultation": "Refinado",
+    "dependent_notes": [
+      "03-Rankings/Avaliacao-da-convocacao.md",
+      "03-Rankings/Lacunas-da-avaliacao-da-convocacao.md"
+    ]
+  },
+  {
+    "id": "libfile_9f8ab7e25a9081919a35072378a9f666",
+    "title": "recording-2026-10-20-22-14-38.mp4",
+    "consulted_on": "2026-10-20",
+    "sha256_file": "2ba628149ea00a612cde76b1ea2eed616a91301fc5f0cf40ec5b7003bc9b0025",
+    "snapshot": "90-Fontes/F18-Video-avaliacao-de-treino.md",
+    "original": "06-Midias/Originais/recording-2026-10-20-22-14-38.mp4",
+    "analysis": "sampled visual frames; audio not transcribed",
+    "dependent_notes": [
+      "03-Rankings/Avaliacao-da-convocacao.md",
+      "06-Midias/Catalogo-de-midias.md"
+    ]
+  }
+]

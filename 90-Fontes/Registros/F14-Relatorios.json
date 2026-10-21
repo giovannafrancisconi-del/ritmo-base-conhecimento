@@ -1,0 +1,19 @@
+{
+  "id": "https://app.notion.com/p/39dfe13c365280b28e52e60de41e75f0",
+  "title": "📊 Relatórios",
+  "text": "Here is the result of \"fetch\" for the Page with URL https://app.notion.com/p/39dfe13c365280b28e52e60de41e75f0 as of 2026-07-14T20:17:29.269Z:\n<page url=\"https://app.notion.com/p/39dfe13c365280b28e52e60de41e75f0\" icon=\"📊\">\n<ancestor-path>\n<parent-page url=\"https://app.notion.com/p/328fe13c3652807b88ebd5f2041eddc6\" title=\"Ritmo Equipe - Atualizado \"/>\n<ancestor-2-database url=\"https://app.notion.com/p/4767919a3b51403da4ca6b32a6986837\" title=\"Company Home\"/>\n</ancestor-path>\n<properties>\n{\"title\":\"Relatórios\"}\n</properties>\n<iconMetadata>{\"type\":\"emoji\",\"emoji\":\"📊\"}</iconMetadata>\n<content>\nNeste menu, a escola pode gerar diversos relatórios para acompanhamento e gestão, como relatórios financeiros, de inadimplência, cancelamentos, presença nos treinos, dados dos atletas e outros, com a possibilidade de filtrar as informações pelo período desejado.\n\nPasso a passo:\n\n- Menu (☰) > Relatórios\n- Selecionar o relatório desejado\n- Selecione a data/período desejado e solicita o relatório\n- Aguarda o final do processamento do relatório para abri-lo como planilha\n\nOBS: Ao solicita rum relatório, você recebe o mesmo pelo e-mail, além da visualização no aplicativo\n\n<p />\n\n<video source=\"notion-file-block://39dfe13c-3652-804d-8cdd-e18fb02cad2e/37f49dcc-b7c9-4a3f-9a4c-e6729467c8c5?space_id=4da93b2f-457d-4d52-a14b-708f015ef537&name=Como_extrair_reltorios_no_app_Ritmo_Equipes.mp4\" />\n</content>\n</page>",
+  "url": "https://app.notion.com/p/39dfe13c365280b28e52e60de41e75f0?pvs=204",
+  "metadata": {
+    "type": "page"
+  },
+  "cover": null,
+  "icon": {
+    "type": "emoji",
+    "emoji": "📊"
+  },
+  "path": "Documentações / Ritmo Equipe - Atualizado",
+  "verification": {
+    "state": "unverified"
+  },
+  "page_last_edited_at": "2026-07-14T20:17:29.269Z"
+}

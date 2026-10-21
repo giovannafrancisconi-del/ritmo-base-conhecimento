@@ -1,0 +1,19 @@
+{
+  "id": "https://app.notion.com/p/328fe13c365280eab1f7c6669713ec98",
+  "title": "✅ Chamadas",
+  "text": "Here is the result of \"fetch\" for the Page with URL https://app.notion.com/p/328fe13c365280eab1f7c6669713ec98 as of 2026-05-07T19:42:20.239Z:\n<page url=\"https://app.notion.com/p/328fe13c365280eab1f7c6669713ec98\" icon=\"✅\">\n<ancestor-path>\n<parent-page url=\"https://app.notion.com/p/328fe13c3652807b88ebd5f2041eddc6\" title=\"Ritmo Equipe - Atualizado \"/>\n<ancestor-2-database url=\"https://app.notion.com/p/4767919a3b51403da4ca6b32a6986837\" title=\"Company Home\"/>\n</ancestor-path>\n<properties>\n{\"title\":\"Chamadas\"}\n</properties>\n<iconMetadata>{\"type\":\"emoji\",\"emoji\":\"✅\"}</iconMetadata>\n<content>\nNo menu chamada a escola consegue planejar o treino/aula ou simplesmente realizar a chamada pelo grupo de uma turma especifica, isso é bem importante para garantir o comprometimento da escola com os alunos perante aos responsáveis\n\n<toggle>\nPlanejar Aula\n\nPasso a passo:\n\n<ul>\n<li>\nMenu (☰) > Chamada > “+” > “Planejar Aula”\n</li>\n<li>\nSelecione o Grupo na seta lateral direta \n</li>\n<li>\nPreenche as informações > Data da aula\n</li>\n<li>\nPreencha as Descrições desejadas > Planejar aula\n</li>\n</ul>\n\nDescrição Interna: Essas informações <br />Descrição Pública: Essas informações vai aparecer no app dos atletas deste grupo\n\n<video source=\"notion-file-block://336fe13c-3652-80df-9be7-e5ad46a883c2/ebdaec60-44a2-47a5-b3b3-ba359b40aa3e?space_id=4da93b2f-457d-4d52-a14b-708f015ef537&name=Como_planejar_aula_dentro_do_app_Equipes.mp4\" />\n\n<p />\n</toggle>\n\n<toggle>\nGeral Chamada\n\n<b><u>Fazer chamada de presença no app</u></b><b><br /></b>Passo a passo:\n\n- Menu (☰) > Chamada > “+” > “Fazer Chamada”\n- Selecionar grupo\n- Marcar atletas presentes > “Registrar Chamada”\n\n<b><u>Se precisar adicionar atleta atrasado:</u></b>\n\n- Menu (☰) > Chamada\n- Clicar na chamada correta > Atletas >Selecione o atleta a acrescentar > Salvar alterações\n\n<b><u>Editar chamada e adicionar conteúdo</u></b>\n\n- Menu (☰) > Chamada\n- Clicar na chamada correta > Conteúdo >  Incluas as descrições > Salvar alterações\n\n<b><u>Se precisar adicionar atleta fora do grupo:</u></b>\n\n- Menu (☰) > Chamada\n- Clicar na chamada correta > ícone inferior “três pontinho” >Adicionar atleta e selecione o atleta correto > Salvar alterações\n\nPara excluir uma chamada basta acessar a chamada a ser removida > ícone inferior “três pontinho” > Remover Chamada\n\nTutorial:\n\n<video source=\"notion-file-block://359fe13c-3652-80e9-962b-e685ff4e2592/ff76b684-411b-4065-bbd9-dad0921638c4?space_id=4da93b2f-457d-4d52-a14b-708f015ef537&name=Chamadas_-_Geral_Chamadas_como_criar_e_editar_uma_chamada.mp4\" />\n</toggle>\n\n<p />\n\n<p />\n</content>\n</page>",
+  "url": "https://app.notion.com/p/328fe13c365280eab1f7c6669713ec98?pvs=204",
+  "metadata": {
+    "type": "page"
+  },
+  "cover": null,
+  "icon": {
+    "type": "emoji",
+    "emoji": "✅"
+  },
+  "path": "Documentações / Ritmo Equipe - Atualizado",
+  "verification": {
+    "state": "unverified"
+  },
+  "page_last_edited_at": "2026-05-07T19:42:20.239Z"
+}

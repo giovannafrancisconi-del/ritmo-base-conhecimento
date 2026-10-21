@@ -1,0 +1,532 @@
+[
+  {
+    "sheet": "Atleta",
+    "row": 2,
+    "type": "Pagamentos",
+    "criterion": "Pagamento por Pix",
+    "points": "10.0",
+    "application": "Pagamento de fatura realizado via Pix até a data do vencimento",
+    "observation": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+    "observation_anchor": "E2"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 3,
+    "type": "Pagamentos",
+    "criterion": "Pontualidade de Pagamento",
+    "points": "20.0",
+    "application": "Pagamento no dia do vencimento da Fatura (Ex: Vence dia 10, pagou no dia 10)",
+    "observation": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+    "observation_anchor": "E2"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 4,
+    "type": "Pagamentos",
+    "criterion": "Pagamento em atraso",
+    "points": "-10.0",
+    "application": "Pagamento após o vencimento da Fatura (Ex: Vence dia 15, pagou dia 16)",
+    "observation": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+    "observation_anchor": "E2"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 5,
+    "type": "Pagamentos",
+    "criterion": "Pagamento antecipado",
+    "points": "50.0",
+    "application": "Pagamento anterior ao dia de vencimento, independete da forma de pagamento (Ex: Vence dia 20, pagou anterior ao dia 19)",
+    "observation": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+    "observation_anchor": "E2"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 6,
+    "type": "Chamada",
+    "criterion": "Pontualidade na chamada",
+    "points": "30.0",
+    "application": "Atleta na priemira vez que o professor/treinador faz chamada",
+    "observation": "",
+    "observation_anchor": "E6"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 7,
+    "type": "Chamada",
+    "criterion": "Atrasado na Chamada",
+    "points": "-10.0",
+    "application": "Atleta incluido após o professor ter feito a chamado",
+    "observation": "",
+    "observation_anchor": "E7"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 8,
+    "type": "Chamada",
+    "criterion": "Avalição de Treino",
+    "points": "30.0",
+    "application": "Atleta fez a avalição do treino ao receber a notificação de avaliação do treino",
+    "observation": "",
+    "observation_anchor": "E8"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 9,
+    "type": "Chamada",
+    "criterion": "Não avaliou o treino",
+    "points": "-10.0",
+    "application": "Atleta não avaliou o treino ao receber a notificação de avaliação do treino",
+    "observation": "",
+    "observation_anchor": "E9"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 10,
+    "type": "Chamada",
+    "criterion": "Justificativa de Falta",
+    "points": "30.0",
+    "application": "Atleta justificou a falta ao receber a notificção de falta",
+    "observation": "",
+    "observation_anchor": "E10"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 11,
+    "type": "Chamada",
+    "criterion": "Falta não justificada",
+    "points": "-10.0",
+    "application": "Atleta não justificou a falta ao receber a notificção de falta",
+    "observation": "",
+    "observation_anchor": "E11"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 12,
+    "type": "Convocação",
+    "criterion": "Convocado em um convocação",
+    "points": "30.0",
+    "application": "Atleta convocado/convidado, incluido na lista da convoção",
+    "observation": "",
+    "observation_anchor": "E12"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 13,
+    "type": "Convocação",
+    "criterion": "Respondeu a convocação",
+    "points": "20.0",
+    "application": "Atleta respondeu a convocação, confirmando ou negado a participação",
+    "observation": "",
+    "observation_anchor": "E13"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 14,
+    "type": "Convocação",
+    "criterion": "Confirmou a prença na convocação",
+    "points": "30.0",
+    "application": "Atleta confirmou a convocação recebida",
+    "observation": "",
+    "observation_anchor": "E14"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 15,
+    "type": "Convocação",
+    "criterion": "Avaliação do Evento/Convocação",
+    "points": "20.0",
+    "application": "Atleta fez a avalição do evento ao receber a notificação no dia do evento da convocação",
+    "observation": "Desenvover funcionalidade",
+    "observation_anchor": "E15"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 16,
+    "type": "Documento",
+    "criterion": "Incluiu um documentação pendente",
+    "points": "30.0",
+    "application": "Atleta inseriu ou renovou um documento pendente solicitado pela escola",
+    "observation": "Considerar nova pontuação após o vencimento da documentação",
+    "observation_anchor": "E16"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 17,
+    "type": "Documento",
+    "criterion": "Não inclusão do documento",
+    "points": "-10.0",
+    "application": "A cada 30 dias, se o documento solicitado estiver pendente, perde os pontos",
+    "observation": "",
+    "observation_anchor": "E17"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 18,
+    "type": "Notas PUBLICAS COM DESCRIÇÃO PREENCHIDAS",
+    "criterion": "Nota de Desempenho e/ou Pessoal 05 estrelas",
+    "points": "30.0",
+    "application": "Quandoa escola adiciona uma nota ao perfil do atleta do tipo \"desempenho ou pessoal\" com classificação 05  estrelas",
+    "observation": "Obrigatoriamente as notas devem ser públicas e com anotaçãojustificada incluída para o responsável e escola estar ciente da nota e não correr o risco da escola incluir qualquer tipo de nota apenas para gerar ponto",
+    "observation_anchor": "E18"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 19,
+    "type": "Notas PUBLICAS COM DESCRIÇÃO PREENCHIDAS",
+    "criterion": "Nota de Desempenho e/ou Pessoal  04 estrelas",
+    "points": "20.0",
+    "application": "Quandoa escola adiciona uma nota ao perfil do atleta do tipo \"desempenho ou pessoal\" com classificação 04  estrelas",
+    "observation": "Obrigatoriamente as notas devem ser públicas e com anotaçãojustificada incluída para o responsável e escola estar ciente da nota e não correr o risco da escola incluir qualquer tipo de nota apenas para gerar ponto",
+    "observation_anchor": "E18"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 20,
+    "type": "Notas PUBLICAS COM DESCRIÇÃO PREENCHIDAS",
+    "criterion": "Nota de Desempenho e/ou Pessoal menor que 04",
+    "points": "-20.0",
+    "application": "Quandoa escola adiciona uma nota ao perfil do atleta do tipo \"desempenho ou pessoal\" com classificação 03, 02 ou 01  estrelas",
+    "observation": "Obrigatoriamente as notas devem ser públicas e com anotaçãojustificada incluída para o responsável e escola estar ciente da nota e não correr o risco da escola incluir qualquer tipo de nota apenas para gerar ponto",
+    "observation_anchor": "E18"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 21,
+    "type": "Mensagens",
+    "criterion": "Mensagens visualizar",
+    "points": "5.0",
+    "application": "Quando o atleta visualiza a mensagem ou aviso recebida ",
+    "observation": "",
+    "observation_anchor": "E21"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 22,
+    "type": "Mensagens",
+    "criterion": "Mensagem se clicar na mensagem dentro do app",
+    "points": "5.0",
+    "application": "Quando o atleta clica na mensagem ou aviso recebida ",
+    "observation": "",
+    "observation_anchor": "E22"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 23,
+    "type": "Mensagens",
+    "criterion": "Clicou no link",
+    "points": "5.0",
+    "application": "Quando o atleta abre/clica no link recebido na mensagem ou aviso recebida ",
+    "observation": "",
+    "observation_anchor": "E23"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 24,
+    "type": "Galeria",
+    "criterion": "Atleta compartilhar um foto",
+    "points": "10.0",
+    "application": "Atleta enviou/compartilhou um foto do treino com a escola*",
+    "observation": "A escola tem que confirma a validade da foto para gerar pontos, visando que o atelta pode incluir qualquer foto",
+    "observation_anchor": "E24"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 25,
+    "type": "BONIFICAÇÃO",
+    "criterion": "Atletas matriculado a + de 03 meses",
+    "points": "30.0",
+    "application": "Atleta matriculado na escola a mais de 03 mese ganha pontuação bônus",
+    "observation": "",
+    "observation_anchor": "E25"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 26,
+    "type": "BONIFICAÇÃO",
+    "criterion": "Atletas matriculado a + de 06 meses",
+    "points": "60.0",
+    "application": "Atleta matriculado na escola a mais de 06 mese ganha pontuação bônus",
+    "observation": "",
+    "observation_anchor": "E26"
+  },
+  {
+    "sheet": "Atleta",
+    "row": 27,
+    "type": "BONIFICAÇÃO",
+    "criterion": "Atletas matriculado a + de 12 meses",
+    "points": "120.0",
+    "application": "Atleta matriculado na escola a mais de 12 mese ganha pontuação bônus",
+    "observation": "",
+    "observation_anchor": "E27"
+  },
+  {
+    "sheet": "Usuário",
+    "row": 5,
+    "type": "Pagamentos",
+    "criterion": "Deu baixa manual na fatura do atleta",
+    "points": "-20.0",
+    "application": "Usuário deu baixa manual em uma fatura, recebendo pro fora do app",
+    "observation": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+    "observation_anchor": "E2"
+  },
+  {
+    "sheet": "Usuário",
+    "row": 6,
+    "type": "Chamada",
+    "criterion": "Fez Chamada",
+    "points": "30.0",
+    "application": "Usuário realizou uma chamda",
+    "observation": "",
+    "observation_anchor": "E6"
+  },
+  {
+    "sheet": "Usuário",
+    "row": 7,
+    "type": "Chamada",
+    "criterion": "Avalição de satisfação menor que 04",
+    "points": "-20.0",
+    "application": "",
+    "observation": "",
+    "observation_anchor": "E7"
+  },
+  {
+    "sheet": "Usuário",
+    "row": 9,
+    "type": "Grupos",
+    "criterion": "Adiconou atleta ao grupo",
+    "points": "10.0",
+    "application": "Usuário incluiu um atleta a uma turma/grupo",
+    "observation": "",
+    "observation_anchor": "E9"
+  },
+  {
+    "sheet": "Usuário",
+    "row": 10,
+    "type": "Convocação",
+    "criterion": "Fez um convocação",
+    "points": "20.0",
+    "application": "Usuário realizou um convocação",
+    "observation": "",
+    "observation_anchor": "E10"
+  },
+  {
+    "sheet": "Usuário",
+    "row": 11,
+    "type": "Convocação",
+    "criterion": "Criação de Fatura da convocação",
+    "points": "",
+    "application": "",
+    "observation": "",
+    "observation_anchor": "E11"
+  },
+  {
+    "sheet": "Usuário",
+    "row": 12,
+    "type": "Convocação",
+    "criterion": "Realizar chamada da convocação / evento",
+    "points": "20.0",
+    "application": "Usuário fez a chamada do evendo da convoação (Criar funcionalidade para realizar \"chamada da convocação\"",
+    "observation": "Desenvover funcionalidade",
+    "observation_anchor": "E12"
+  },
+  {
+    "sheet": "Usuário",
+    "row": 13,
+    "type": "Notas PUBLICAS COM DESCRIÇÃO PREENCHIDAS",
+    "criterion": "Nota de Desempenho e/ou Pessoal ",
+    "points": "20.0",
+    "application": "Uuário adiciona uma nota ao perfil do atleta do tipo \"desempenho ou pessoal\" com classificação 05  estrelas",
+    "observation": "Obrigatoriamente as notas devem ser públicas e com anotaçãojustificada incluída para o responsável e escola estar ciente da nota e não correr o risco da escola incluir qualquer tipo de nota apenas para gerar ponto",
+    "observation_anchor": "E13"
+  },
+  {
+    "sheet": "Usuário",
+    "row": 14,
+    "type": "Mensagem",
+    "criterion": "Envio de aviso/mensagem ",
+    "points": "20.0",
+    "application": "Usuário enviou uma mensagem para os atletas",
+    "observation": "",
+    "observation_anchor": "E14"
+  },
+  {
+    "sheet": "Usuário",
+    "row": 15,
+    "type": "Mensagem",
+    "criterion": "Responder aviso/mensagem",
+    "points": "20.0",
+    "application": "Usuário respondeu uma mensagem dos atletas recebida",
+    "observation": "",
+    "observation_anchor": "E15"
+  },
+  {
+    "sheet": "Usuário",
+    "row": 16,
+    "type": "Galeria",
+    "criterion": "Compartilhar um foto coma atletas",
+    "points": "50.0",
+    "application": "Usuário enviou/compartilhou um foto do treino com os responsáveis",
+    "observation": "",
+    "observation_anchor": "E16"
+  },
+  {
+    "sheet": "Escola",
+    "row": 2,
+    "type": "Pagamentos",
+    "criterion": "Serviço de NF ",
+    "points": "",
+    "application": "",
+    "observation": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+    "observation_anchor": "E2"
+  },
+  {
+    "sheet": "Escola",
+    "row": 3,
+    "type": "Pagamentos",
+    "criterion": "Serviço de Seguro",
+    "points": "",
+    "application": "",
+    "observation": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+    "observation_anchor": "E2"
+  },
+  {
+    "sheet": "Escola",
+    "row": 4,
+    "type": "Pagamentos",
+    "criterion": "Pagemento em dia com a Ritmo",
+    "points": "20.0",
+    "application": "Pontuação ",
+    "observation": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+    "observation_anchor": "E2"
+  },
+  {
+    "sheet": "Escola",
+    "row": 5,
+    "type": "Pagamentos",
+    "criterion": "Pagamentos recebidos no app",
+    "points": "20.0",
+    "application": "Pontuação por cada pagamento recebido dentro do app",
+    "observation": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+    "observation_anchor": "E2"
+  },
+  {
+    "sheet": "Escola",
+    "row": 6,
+    "type": "Pagamentos",
+    "criterion": "Deu baixa manual na fatura do atleta",
+    "points": "-20.0",
+    "application": "Pontuação por cada recebimento por fora do app, quitando a fatura no perfil do atleta",
+    "observation": "Válido para todos os tipos de fautas, desde mensalidades, convoação, taxa de jogo e outros, exceto faturas de negativação ou cancelamento",
+    "observation_anchor": "E2"
+  },
+  {
+    "sheet": "Escola",
+    "row": 7,
+    "type": "Chamada",
+    "criterion": "Fez Chamada",
+    "points": "30.0",
+    "application": "Pontuação por cada chamada feita",
+    "observation": "",
+    "observation_anchor": "E7"
+  },
+  {
+    "sheet": "Escola",
+    "row": 8,
+    "type": "Chamada",
+    "criterion": "Avaliação de satisfação  menor que 04",
+    "points": "-20.0",
+    "application": " Pontuação por cada avaliação recebida",
+    "observation": "",
+    "observation_anchor": "E8"
+  },
+  {
+    "sheet": "Escola",
+    "row": 9,
+    "type": "Chamada",
+    "criterion": "Não realizou chamada",
+    "points": "-50.0",
+    "application": "Pontuação perdida se não realizou nenhuma chamada dentro de da semana",
+    "observation": "",
+    "observation_anchor": "E9"
+  },
+  {
+    "sheet": "Escola",
+    "row": 10,
+    "type": "Grupos",
+    "criterion": "Atleta fora do grupo",
+    "points": "-20.0",
+    "application": "Pontuação por cada atleta fora de grupos",
+    "observation": "",
+    "observation_anchor": "E10"
+  },
+  {
+    "sheet": "Escola",
+    "row": 11,
+    "type": "Grupos",
+    "criterion": "Adiconou atleta ao grupo",
+    "points": "10.0",
+    "application": "incluiu atleta a uma turma",
+    "observation": "",
+    "observation_anchor": "E11"
+  },
+  {
+    "sheet": "Escola",
+    "row": 12,
+    "type": "Convocação",
+    "criterion": "Fez um convocação",
+    "points": "20.0",
+    "application": "Pontuação por cada convocação realizada",
+    "observation": "",
+    "observation_anchor": "E12"
+  },
+  {
+    "sheet": "Escola",
+    "row": 13,
+    "type": "Convocação",
+    "criterion": "Realizar chamada da convocação / evento",
+    "points": "20.0",
+    "application": "Chamada do evendo da convoação (Criar funcionalidade para realizar \"chamada da convocação\"",
+    "observation": "Desenvover funcionalidade",
+    "observation_anchor": "E13"
+  },
+  {
+    "sheet": "Escola",
+    "row": 14,
+    "type": "Notas PUBLICAS COM DESCRIÇÃO PREENCHIDAS",
+    "criterion": "Nota de Desempenho e/ou Pessoal ",
+    "points": "20.0",
+    "application": "Pontuação por cada nota adiciona ao perfil de um atleta do tipo \"desempenho ou pessoal\" com classificação 05  estrelas",
+    "observation": "Obrigatoriamente as notas devem ser públicas e com anotaçãojustificada incluída para o responsável e escola estar ciente da nota e não correr o risco da escola incluir qualquer tipo de nota apenas para gerar ponto",
+    "observation_anchor": "E14"
+  },
+  {
+    "sheet": "Escola",
+    "row": 15,
+    "type": "Mensagem",
+    "criterion": "Envio de aviso/mensagem ",
+    "points": "20.0",
+    "application": "Pontuação por cada envio de manesagem para os ateltas",
+    "observation": "",
+    "observation_anchor": "E15"
+  },
+  {
+    "sheet": "Escola",
+    "row": 16,
+    "type": "Mensagem",
+    "criterion": "Responder aviso/mensagem",
+    "points": "20.0",
+    "application": "Pontuação por cada respostad de uma mensagem dos atletas recebida",
+    "observation": "",
+    "observation_anchor": "E16"
+  },
+  {
+    "sheet": "Escola",
+    "row": 17,
+    "type": "Galeria",
+    "criterion": "Compartilhar um foto coma atletas",
+    "points": "50.0",
+    "application": "Pontuação por cada foto do treino compartilhada com os responsáveis",
+    "observation": "",
+    "observation_anchor": "E17"
+  }
+]
