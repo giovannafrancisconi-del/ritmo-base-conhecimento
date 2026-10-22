@@ -492,5 +492,19 @@
       "00-Mapa/Grafo-de-conhecimento.md",
       "05-Governanca/Registro-de-alteracoes.md"
     ]
+  },
+  {
+    "id": "F30",
+    "title": "Referências visuais: ranking mensal e ranking da temporada",
+    "consulted_on": "2026-10-22",
+    "snapshot": "90-Fontes/F30-Referencias-de-ranking-mensal-e-temporada.md",
+    "source_type": "imagens enviadas pelo usuário e decisão do usuário",
+    "dependent_notes": [
+      "90-Fontes/F30-Referencias-de-ranking-mensal-e-temporada.md",
+      "03-Rankings/Configuracao-do-ranking-de-equipes.md",
+      "00-Mapa/Indice.md",
+      "00-Mapa/Grafo-de-conhecimento.md",
+      "05-Governanca/Registro-de-alteracoes.md"
+    ]
   }
 ]

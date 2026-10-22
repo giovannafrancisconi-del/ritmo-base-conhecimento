@@ -96,3 +96,5 @@ graph TD
 [[90-Fontes/F28-Visualizacao-do-ranking-de-equipes]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Ranking-de-Escolas]]
 
 [[90-Fontes/F29-Composicao-da-visualizacao-do-ranking]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Ranking-de-Escolas]]
+
+[[90-Fontes/F30-Referencias-de-ranking-mensal-e-temporada]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Periodicidade-e-temporadas]] · [[03-Rankings/Premiacoes]]

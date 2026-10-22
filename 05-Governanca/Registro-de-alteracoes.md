@@ -114,3 +114,10 @@ fontes: []
 - Estrutura do top 3 e da lista de escolas com nome, cidade/UF e pontuação.
 - Inclusão do botão Temporadas anteriores.
 - Dados reais de classificação continuam pendentes de fonte de apuração.
+
+## Versão 1.15 — 2026-10-22
+
+- Integração de duas referências visuais para o submenu Visualização: ranking mensal e ranking da temporada.
+- A escolha entre mensal e temporada precede os filtros; a premiação ficou exclusiva da visão de temporada quando configurada.
+- Inclusão de navegação visual por setas, ação de PDF e ícone de informações da pontuação como elementos de protótipo.
+- PDF, detalhamento de pontuação e abertura de usuários/atletas permanecem sem comportamento de negócio definido.

@@ -60,6 +60,7 @@ Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes.
 - Ajustes de interface e fluxo: [[90-Fontes/F26-Ajustes-de-interface-e-fluxo-da-premiacao]].
 - Réplica para Usuário Equipe e Atletas: [[90-Fontes/F27-Replica-da-configuracao-para-usuarios-e-atletas]].
 - Visualização por abrangência: [[90-Fontes/F28-Visualizacao-do-ranking-de-equipes]].
+- Escolha entre ranking mensal e ranking da temporada: [[90-Fontes/F30-Referencias-de-ranking-mensal-e-temporada]].
 - Composição de temporada, premiação e ranking: [[90-Fontes/F29-Composicao-da-visualizacao-do-ranking]].
 
 ## Conexões
