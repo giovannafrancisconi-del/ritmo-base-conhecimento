@@ -2,8 +2,8 @@
 title: "Periodicidade e temporadas"
 tipo: "nota"
 status: "requisito-documentado"
-atualizado_em: "2026-10-20"
-fontes: ["https://app.notion.com/p/3fbfe13c365280ef892cde6bc50c9e54?pvs=204"]
+atualizado_em: "2026-10-22"
+fontes: ["https://app.notion.com/p/3fbfe13c365280ef892cde6bc50c9e54?pvs=204", "Decisão do usuário — 2026-10-22"]
 ---
 
 # Periodicidade e temporadas
@@ -35,10 +35,16 @@ O sistema deverá permitir duas formas de acompanhamento dos resultados:
 
 O sistema deverá distinguir claramente a pontuação mensal da pontuação por temporada, evitando confusão entre os dois resultados.
 
+## Múltiplas temporadas no mesmo ano
+
+O protótipo deve permitir criar e selecionar diversas temporadas para um mesmo ano. Cada uma é identificada pelo nome, ano e pelos meses de vigência. O ano deve ser selecionável para permitir configuração de períodos futuros.
+
+Cada mês pode estar associado a somente uma temporada dentro do mesmo ano. Assim, um mês já incluído em uma temporada de 2027 fica indisponível para as demais temporadas de 2027; essa restrição não se estende a outros anos.
+
 ## Fontes
 
 - [Ranking de pontuação: Atletas, Usuários e Equipes](https://app.notion.com/p/3fbfe13c365280ef892cde6bc50c9e54?pvs=204)
 
 ## Conexões
 
-[[03-Rankings/Visao-geral-ranking]] · [[00-Mapa/Pendencias]] · [[90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes]]
+[[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[90-Fontes/F24-Multiplas-temporadas-no-ano]] · [[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]] · [[00-Mapa/Pendencias]] · [[90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes]]

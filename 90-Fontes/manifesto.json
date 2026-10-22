@@ -394,5 +394,40 @@
       "00-Mapa/Grafo-de-conhecimento.md",
       "05-Governanca/Registro-de-alteracoes.md"
     ]
+  },
+  {
+    "id": "F24",
+    "title": "Múltiplas temporadas no mesmo ano",
+    "consulted_on": "2026-10-22",
+    "snapshot": "90-Fontes/F24-Multiplas-temporadas-no-ano.md",
+    "source_type": "decisão do usuário",
+    "dependent_notes": [
+      "90-Fontes/F24-Multiplas-temporadas-no-ano.md",
+      "03-Rankings/Configuracao-do-ranking-de-equipes.md",
+      "03-Rankings/Configuracao-das-temporadas-pela-escola.md",
+      "03-Rankings/Periodicidade-e-temporadas.md",
+      "00-Mapa/Indice.md",
+      "00-Mapa/Fontes-e-cobertura.md",
+      "00-Mapa/Grafo-de-conhecimento.md",
+      "05-Governanca/Registro-de-alteracoes.md"
+    ]
+  },
+  {
+    "id": "F25",
+    "title": "Exclusividade de meses e premiação opcional",
+    "consulted_on": "2026-10-22",
+    "snapshot": "90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional.md",
+    "source_type": "decisão do usuário",
+    "dependent_notes": [
+      "90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional.md",
+      "03-Rankings/Configuracao-do-ranking-de-equipes.md",
+      "03-Rankings/Configuracao-das-temporadas-pela-escola.md",
+      "03-Rankings/Periodicidade-e-temporadas.md",
+      "03-Rankings/Premiacoes.md",
+      "00-Mapa/Indice.md",
+      "00-Mapa/Fontes-e-cobertura.md",
+      "00-Mapa/Grafo-de-conhecimento.md",
+      "05-Governanca/Registro-de-alteracoes.md"
+    ]
   }
 ]

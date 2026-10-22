@@ -24,6 +24,8 @@ A configuração da premiação deverá permitir identificar quais posições se
 
 ## Abrangência confirmada para o protótipo
 
+- A escola deve indicar primeiro se deseja ou não conceder premiação na temporada.
+- Quando não houver premiação, nenhum campo complementar de abrangência ou descrição é necessário.
 - A premiação pode ser configurada para **Brasil inteiro**, com uma descrição nacional.
 - A premiação pode ser configurada **por estado**, com seleção de UF e descrição própria para cada estado.
 - Essa decisão não define posições premiadas, regras de elegibilidade, desempate ou entrega; esses itens continuam pendentes.
@@ -34,4 +36,4 @@ A configuração da premiação deverá permitir identificar quais posições se
 
 ## Conexões
 
-[[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]] · [[00-Mapa/Pendencias]] · [[90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes]]
+[[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]] · [[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]] · [[00-Mapa/Pendencias]] · [[90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes]]

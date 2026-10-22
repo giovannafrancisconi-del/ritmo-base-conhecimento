@@ -74,3 +74,17 @@ fontes: []
 - A vigência passou a ser definida por seleção de meses, com janeiro a junho como exemplo demonstrativo.
 - A premiação passou a permitir abrangência para Brasil inteiro ou por estado, com descrição específica.
 - Elegibilidade, posições premiadas, desempate, periodicidade e entrega da premiação foram preservados como pendências.
+
+## Versão 1.9 — 2026-10-22
+
+- Integração da decisão do usuário para criar e selecionar mais de uma temporada no mesmo ano.
+- O protótipo passou a demonstrar duas temporadas de 2027: janeiro–junho e junho–julho.
+- A configuração de nome, ano e meses ocorre por temporada selecionada.
+- A decisão não define o tratamento de meses compartilhados na apuração; a lacuna foi preservada.
+
+## Versão 1.10 — 2026-10-22
+
+- Integração da decisão que impede o uso do mesmo mês em temporadas diferentes do mesmo ano.
+- Inclusão de seleção de ano para configuração de temporadas futuras; a exclusividade de meses é limitada ao ano selecionado.
+- Atualização da premiação: a escola decide primeiro se haverá premiação; em caso positivo, pode configurar uma descrição nacional ou uma descrição para cada estado.
+- Posições premiadas, elegibilidade, desempate, entrega, persistência e apuração continuam pendentes.

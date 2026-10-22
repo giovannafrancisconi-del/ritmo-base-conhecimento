@@ -58,3 +58,7 @@ O manifesto JSON relaciona fontes, hashes e notas dependentes.
 [[90-Fontes/F22-Video-referencia-plataforma-ranking]] — vídeo de referência visual usado no protótipo da configuração do Ranking de Equipes.
 
 [[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]] — decisão do usuário sobre meses de vigência e abrangência das premiações no protótipo.
+
+[[90-Fontes/F24-Multiplas-temporadas-no-ano]] — decisão do usuário sobre criar e selecionar várias temporadas no mesmo ano.
+
+[[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]] — decisão do usuário sobre exclusividade de meses por ano, seleção de ano e premiação opcional.

@@ -24,6 +24,11 @@ Disponibilizar uma área de configuração para que a escola possa:
 - A vigência é definida pela seleção dos meses que compõem a temporada.
 - O exemplo informado para a interface é uma temporada de janeiro a junho.
 - A seleção pode ser alterada antes de salvar a configuração da temporada.
+- A tela deve permitir criar e selecionar mais de uma temporada dentro do mesmo ano.
+- Cada temporada é identificada por ano, nome e meses selecionados.
+- O ano é selecionável para que a escola possa preparar configurações de anos futuros.
+- Um mês já selecionado em uma temporada fica indisponível para as demais temporadas do mesmo ano.
+- A mesma referência de mês pode ser usada em anos distintos.
 
 As alterações de configuração deverão respeitar as regras de vigência, preservando os resultados já consolidados.
 
@@ -33,4 +38,4 @@ As alterações de configuração deverão respeitar as regras de vigência, pre
 
 ## Conexões
 
-[[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]] · [[00-Mapa/Pendencias]] · [[90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes]]
+[[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]] · [[90-Fontes/F24-Multiplas-temporadas-no-ano]] · [[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]] · [[00-Mapa/Pendencias]] · [[90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes]]

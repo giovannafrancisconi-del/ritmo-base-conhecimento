@@ -3,7 +3,7 @@ title: "Protótipo — Configuração do ranking de equipes"
 tipo: "nota"
 status: "prototipo-validado"
 atualizado_em: "2026-10-22"
-fontes: ["Tarefa (2).xlsx", "recording-2026-10-21-20-33-26.webm", "Decisão do usuário — 2026-10-22"]
+fontes: ["Tarefa (2).xlsx", "recording-2026-10-21-20-33-26.webm", "Decisões do usuário — 2026-10-22"]
 ---
 
 # Protótipo — Configuração do ranking de equipes
@@ -13,8 +13,10 @@ Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes.
 ## Escopo implementado no protótipo
 
 - Navegação lateral com o módulo Ranking e seus submenus.
-- Nome de temporada e seleção dos meses que compõem sua vigência; o resumo é atualizado conforme os meses selecionados.
-- Configuração de premiação com abrangência para Brasil inteiro ou por estado, e descrição correspondente.
+- Lista de temporadas por ano, com criação, seleção e edição da temporada em configuração.
+- Seleção de ano para configurar períodos futuros, além de nome e meses que compõem a vigência de cada temporada.
+- Exclusividade de meses por ano: um mês usado por uma temporada fica indisponível para outra temporada do mesmo ano.
+- Configuração opcional de premiação: escolha inicial entre conceder ou não; quando habilitada, há abrangência para Brasil inteiro ou por estado e descrição correspondente.
 - Grupos expansíveis de critérios, pontuação editável e ativação individual.
 - Ações locais de descartar e salvar, com confirmação visual.
 - Critérios e valores da aba Escola da fonte vigente [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]].
@@ -33,6 +35,7 @@ Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes.
 
 - O rótulo de temporada, os meses e as descrições de premiação são dados demonstrativos de interface; não determinam uma temporada ativa de produção.
 - O protótipo não implementa persistência, autorização, apuração, auditoria ou aplicação efetiva de alterações de pontos.
+- A interface é demonstrativa: os controles de vigência e premiação não representam persistência ou validação de produção.
 - A regra de adimplência em “Pagamento em dia com a Ritmo” permanece sem gatilho definido na planilha.
 - Posições premiadas, elegibilidade, desempate, periodicidade e entrega das premiações não foram definidos nesta decisão.
 - Os submenus de Usuários, Atletas e Visualização estão previstos como próximas etapas e não devem ser interpretados como telas entregues.
@@ -43,7 +46,9 @@ Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes.
 - Requisitos de configuração por temporada e preservação de histórico: [[03-Rankings/Configuracao-e-alteracao-da-pontuacao]] e [[03-Rankings/Configuracao-das-temporadas-pela-escola]].
 - Referência visual: [[90-Fontes/F22-Video-referencia-plataforma-ranking]].
 - Vigência e premiação: [[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]].
+- Múltiplas temporadas no ano: [[90-Fontes/F24-Multiplas-temporadas-no-ano]].
+- Exclusividade anual e premiação opcional: [[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]].
 
 ## Conexões
 
-[[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Ranking-de-Escolas]] · [[03-Rankings/Criterios/Escola]] · [[03-Rankings/Configuracao-das-temporadas-pela-escola]] · [[03-Rankings/Premiacoes]] · [[03-Rankings/Lacunas-da-planilha]]
+[[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Ranking-de-Escolas]] · [[03-Rankings/Criterios/Escola]] · [[03-Rankings/Configuracao-das-temporadas-pela-escola]] · [[03-Rankings/Periodicidade-e-temporadas]] · [[03-Rankings/Premiacoes]] · [[03-Rankings/Lacunas-da-planilha]]

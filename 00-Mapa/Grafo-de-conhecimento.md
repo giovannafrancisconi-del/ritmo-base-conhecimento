@@ -35,7 +35,10 @@ graph TD
   PL --> VC
   VR["Vídeo F22: referência visual"] -. "linguagem visual" .-> VC
   VC --> VG["Vigência por meses"]
+  VG --> MT["Múltiplas temporadas por ano"]
+  MT --> UM["Um mês por temporada no ano"]
   VC --> PM["Premiação"]
+  PM --> PO["Conceder ou não"]
   PM --> BR["Brasil inteiro"]
   PM --> UF["Por estado"]
   VC -. "próxima etapa" .-> EX
@@ -73,3 +76,7 @@ graph TD
 [[90-Fontes/F22-Video-referencia-plataforma-ranking]] -. referência visual .-> [[03-Rankings/Configuracao-do-ranking-de-equipes]]
 
 [[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]] → [[03-Rankings/Configuracao-das-temporadas-pela-escola]] · [[03-Rankings/Premiacoes]]
+
+[[90-Fontes/F24-Multiplas-temporadas-no-ano]] → [[03-Rankings/Configuracao-das-temporadas-pela-escola]] · [[03-Rankings/Periodicidade-e-temporadas]]
+
+[[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]] → [[03-Rankings/Configuracao-das-temporadas-pela-escola]] · [[03-Rankings/Premiacoes]]
