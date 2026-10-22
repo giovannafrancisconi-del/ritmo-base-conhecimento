@@ -153,6 +153,7 @@ fontes: []
 - [[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]]
 - [[90-Fontes/F24-Multiplas-temporadas-no-ano]]
 - [[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]]
+- [[90-Fontes/F26-Ajustes-de-interface-e-fluxo-da-premiacao]]
 - [[90-Fontes/F19-Comentario-1-prototipo-avaliacao]]
 - [[90-Fontes/F20-Comentarios-2-e-3-prototipo-avaliacao]]
 

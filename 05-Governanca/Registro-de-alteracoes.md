@@ -88,3 +88,9 @@ fontes: []
 - Inclusão de seleção de ano para configuração de temporadas futuras; a exclusividade de meses é limitada ao ano selecionado.
 - Atualização da premiação: a escola decide primeiro se haverá premiação; em caso positivo, pode configurar uma descrição nacional ou uma descrição para cada estado.
 - Posições premiadas, elegibilidade, desempate, entrega, persistência e apuração continuam pendentes.
+
+## Versão 1.11 — 2026-10-22
+
+- Simplificação do menu Ranking e do cabeçalho da tela de Configuração de Equipes.
+- Inclusão da orientação “Configure aqui as temporadas do seu ano”.
+- Correção do fluxo condicional de premiação: Brasil inteiro exibe somente a descrição nacional; por estado exibe apenas UF, descrição e adição do estado.

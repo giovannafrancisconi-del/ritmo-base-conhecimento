@@ -17,6 +17,8 @@ Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes.
 - Seleção de ano para configurar períodos futuros, além de nome e meses que compõem a vigência de cada temporada.
 - Exclusividade de meses por ano: um mês usado por uma temporada fica indisponível para outra temporada do mesmo ano.
 - Configuração opcional de premiação: escolha inicial entre conceder ou não; quando habilitada, há abrangência para Brasil inteiro ou por estado e descrição correspondente.
+- Fluxo progressivo da premiação: depois de selecionar “Sim”, a escola escolhe Brasil inteiro ou por estado; somente os campos da abrangência selecionada são exibidos.
+- Navegação lateral simplificada com os submenus Conf. Equipes, Conf. Usuário Equipe e Conf. Atletas; o cabeçalho orienta a configurar as temporadas do ano.
 - Grupos expansíveis de critérios, pontuação editável e ativação individual.
 - Ações locais de descartar e salvar, com confirmação visual.
 - Critérios e valores da aba Escola da fonte vigente [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]].
@@ -48,6 +50,7 @@ Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes.
 - Vigência e premiação: [[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]].
 - Múltiplas temporadas no ano: [[90-Fontes/F24-Multiplas-temporadas-no-ano]].
 - Exclusividade anual e premiação opcional: [[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]].
+- Ajustes de interface e fluxo: [[90-Fontes/F26-Ajustes-de-interface-e-fluxo-da-premiacao]].
 
 ## Conexões
 

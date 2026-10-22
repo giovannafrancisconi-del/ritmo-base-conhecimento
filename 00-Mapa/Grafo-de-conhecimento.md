@@ -41,6 +41,7 @@ graph TD
   PM --> PO["Conceder ou não"]
   PM --> BR["Brasil inteiro"]
   PM --> UF["Por estado"]
+  PO --> FP["Campos progressivos"]
   VC -. "próxima etapa" .-> EX
   LP["Lacunas da planilha"] -. "acúmulo, prazos e campos vazios" .-> AP
   AP --> H["Histórico e auditoria"]
@@ -80,3 +81,5 @@ graph TD
 [[90-Fontes/F24-Multiplas-temporadas-no-ano]] → [[03-Rankings/Configuracao-das-temporadas-pela-escola]] · [[03-Rankings/Periodicidade-e-temporadas]]
 
 [[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]] → [[03-Rankings/Configuracao-das-temporadas-pela-escola]] · [[03-Rankings/Premiacoes]]
+
+[[90-Fontes/F26-Ajustes-de-interface-e-fluxo-da-premiacao]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Premiacoes]]

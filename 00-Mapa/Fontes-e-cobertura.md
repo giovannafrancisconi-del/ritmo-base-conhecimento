@@ -62,3 +62,5 @@ O manifesto JSON relaciona fontes, hashes e notas dependentes.
 [[90-Fontes/F24-Multiplas-temporadas-no-ano]] — decisão do usuário sobre criar e selecionar várias temporadas no mesmo ano.
 
 [[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]] — decisão do usuário sobre exclusividade de meses por ano, seleção de ano e premiação opcional.
+
+[[90-Fontes/F26-Ajustes-de-interface-e-fluxo-da-premiacao]] — revisão da navegação, cabeçalho e apresentação condicional dos campos de premiação.

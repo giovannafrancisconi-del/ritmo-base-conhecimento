@@ -429,5 +429,21 @@
       "00-Mapa/Grafo-de-conhecimento.md",
       "05-Governanca/Registro-de-alteracoes.md"
     ]
+  },
+  {
+    "id": "F26",
+    "title": "Ajustes de interface e fluxo da premiação",
+    "consulted_on": "2026-10-22",
+    "snapshot": "90-Fontes/F26-Ajustes-de-interface-e-fluxo-da-premiacao.md",
+    "source_type": "comentários de revisão do protótipo",
+    "dependent_notes": [
+      "90-Fontes/F26-Ajustes-de-interface-e-fluxo-da-premiacao.md",
+      "03-Rankings/Configuracao-do-ranking-de-equipes.md",
+      "03-Rankings/Premiacoes.md",
+      "00-Mapa/Indice.md",
+      "00-Mapa/Fontes-e-cobertura.md",
+      "00-Mapa/Grafo-de-conhecimento.md",
+      "05-Governanca/Registro-de-alteracoes.md"
+    ]
   }
 ]
