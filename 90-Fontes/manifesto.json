@@ -346,6 +346,7 @@
       "03-Rankings/Criterios/Atleta.md",
       "03-Rankings/Criterios/Usuario.md",
       "03-Rankings/Criterios/Escola.md",
+      "03-Rankings/Configuracao-do-ranking-de-equipes.md",
       "03-Rankings/Avaliacao-da-convocacao.md",
       "03-Rankings/Lacunas-da-planilha.md",
       "03-Rankings/Lacunas-da-avaliacao-da-convocacao.md",
@@ -442,6 +443,22 @@
       "03-Rankings/Premiacoes.md",
       "00-Mapa/Indice.md",
       "00-Mapa/Fontes-e-cobertura.md",
+      "00-Mapa/Grafo-de-conhecimento.md",
+      "05-Governanca/Registro-de-alteracoes.md"
+    ]
+  },
+  {
+    "id": "F27",
+    "title": "Réplica da configuração para Usuário Equipe e Atletas",
+    "consulted_on": "2026-10-22",
+    "snapshot": "90-Fontes/F27-Replica-da-configuracao-para-usuarios-e-atletas.md",
+    "source_type": "decisão do usuário",
+    "dependent_notes": [
+      "90-Fontes/F27-Replica-da-configuracao-para-usuarios-e-atletas.md",
+      "03-Rankings/Configuracao-do-ranking-de-equipes.md",
+      "03-Rankings/Criterios/Usuario.md",
+      "03-Rankings/Criterios/Atleta.md",
+      "00-Mapa/Indice.md",
       "00-Mapa/Grafo-de-conhecimento.md",
       "05-Governanca/Registro-de-alteracoes.md"
     ]

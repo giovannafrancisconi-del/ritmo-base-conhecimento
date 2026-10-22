@@ -94,3 +94,10 @@ fontes: []
 - Simplificação do menu Ranking e do cabeçalho da tela de Configuração de Equipes.
 - Inclusão da orientação “Configure aqui as temporadas do seu ano”.
 - Correção do fluxo condicional de premiação: Brasil inteiro exibe somente a descrição nacional; por estado exibe apenas UF, descrição e adição do estado.
+
+## Versão 1.12 — 2026-10-22
+
+- Réplica do protótipo de configuração para Conf. Usuário Equipe e Conf. Atletas.
+- Estrutura de temporadas, exclusividade anual de meses e premiação preservadas nos três perfis.
+- Critérios de Usuário (9) e Atleta (26) vinculados às respectivas abas da planilha F21 vigente.
+- A visualização do ranking permanece fora do escopo desta entrega.

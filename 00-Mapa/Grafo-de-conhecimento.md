@@ -32,7 +32,11 @@ graph TD
   PL --> RU
   PL --> RE
   VC["Configuração: Equipes"] --> RE
+  VU["Configuração: Usuário Equipe"] --> RU
+  VA["Configuração: Atletas"] --> RA
   PL --> VC
+  PL --> VU
+  PL --> VA
   VR["Vídeo F22: referência visual"] -. "linguagem visual" .-> VC
   VC --> VG["Vigência por meses"]
   VG --> MT["Múltiplas temporadas por ano"]
@@ -72,7 +76,7 @@ graph TD
 
 ## Protótipo de configuração
 
-[[03-Rankings/Configuracao-do-ranking-de-equipes]] → [[03-Rankings/Criterios/Escola]] → [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]
+[[03-Rankings/Configuracao-do-ranking-de-equipes]] → [[03-Rankings/Criterios/Escola]] · [[03-Rankings/Criterios/Usuario]] · [[03-Rankings/Criterios/Atleta]] → [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]
 
 [[90-Fontes/F22-Video-referencia-plataforma-ranking]] -. referência visual .-> [[03-Rankings/Configuracao-do-ranking-de-equipes]]
 
@@ -83,3 +87,5 @@ graph TD
 [[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]] → [[03-Rankings/Configuracao-das-temporadas-pela-escola]] · [[03-Rankings/Premiacoes]]
 
 [[90-Fontes/F26-Ajustes-de-interface-e-fluxo-da-premiacao]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Premiacoes]]
+
+[[90-Fontes/F27-Replica-da-configuracao-para-usuarios-e-atletas]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Criterios/Usuario]] · [[03-Rankings/Criterios/Atleta]]

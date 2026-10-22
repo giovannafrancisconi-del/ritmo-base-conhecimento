@@ -183,12 +183,15 @@ fontes: []
 - [[90-Fontes/F22-Video-referencia-plataforma-ranking]]
 - [[06-Midias/Catalogo-de-midias]]
 
-## Protótipo de configuração do Ranking de Equipes
+## Protótipo de configuração do Ranking
 
 - [[03-Rankings/Configuracao-do-ranking-de-equipes]]
 - [[03-Rankings/Criterios/Escola]]
+- [[03-Rankings/Criterios/Usuario]]
+- [[03-Rankings/Criterios/Atleta]]
 - [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]
 - [[03-Rankings/Configuracao-das-temporadas-pela-escola]]
 - [[03-Rankings/Premiacoes]]
 - [[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]]
 - [[90-Fontes/F24-Multiplas-temporadas-no-ano]]
+- [[90-Fontes/F27-Replica-da-configuracao-para-usuarios-e-atletas]]

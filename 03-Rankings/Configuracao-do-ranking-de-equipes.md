@@ -1,14 +1,14 @@
 ---
-title: "Protótipo — Configuração do ranking de equipes"
+title: "Protótipo — Configuração do Ranking"
 tipo: "nota"
 status: "prototipo-validado"
 atualizado_em: "2026-10-22"
 fontes: ["Tarefa (2).xlsx", "recording-2026-10-21-20-33-26.webm", "Decisões do usuário — 2026-10-22"]
 ---
 
-# Protótipo — Configuração do ranking de equipes
+# Protótipo — Configuração do Ranking
 
-Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes. O menu Ranking expõe os submenus **Configuração**, **Usuários**, **Atletas** e **Visualização**; nesta entrega, somente a configuração de **Equipes** foi detalhada. A visualização do ranking é uma etapa posterior.
+Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes. O menu Ranking expõe os submenus **Conf. Equipes**, **Conf. Usuário Equipe** e **Conf. Atletas**. A visualização do ranking é uma etapa posterior.
 
 ## Escopo implementado no protótipo
 
@@ -19,9 +19,11 @@ Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes.
 - Configuração opcional de premiação: escolha inicial entre conceder ou não; quando habilitada, há abrangência para Brasil inteiro ou por estado e descrição correspondente.
 - Fluxo progressivo da premiação: depois de selecionar “Sim”, a escola escolhe Brasil inteiro ou por estado; somente os campos da abrangência selecionada são exibidos.
 - Navegação lateral simplificada com os submenus Conf. Equipes, Conf. Usuário Equipe e Conf. Atletas; o cabeçalho orienta a configurar as temporadas do ano.
+- Alternância entre os três perfis de configuração mantendo a mesma estrutura de vigência e premiação.
 - Grupos expansíveis de critérios, pontuação editável e ativação individual.
 - Ações locais de descartar e salvar, com confirmação visual.
 - Critérios e valores da aba Escola da fonte vigente [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]].
+- Critérios e valores da aba Usuário para Conf. Usuário Equipe e da aba Atleta para Conf. Atletas, conforme [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]].
 
 | Grupo | Critérios exibidos | Fonte |
 |---|---:|---|
@@ -33,6 +35,11 @@ Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes.
 | Mensagens | 2 | Escola!B19:D20 |
 | Galeria | 1 | Escola!B21:D21 |
 
+| Perfil | Critérios exibidos | Fonte |
+|---|---:|---|
+| Usuário Equipe | 9 | Usuário!B2:E10 |
+| Atletas | 26 | Atleta!B2:E27 |
+
 ## Limites conhecidos
 
 - O rótulo de temporada, os meses e as descrições de premiação são dados demonstrativos de interface; não determinam uma temporada ativa de produção.
@@ -40,7 +47,7 @@ Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes.
 - A interface é demonstrativa: os controles de vigência e premiação não representam persistência ou validação de produção.
 - A regra de adimplência em “Pagamento em dia com a Ritmo” permanece sem gatilho definido na planilha.
 - Posições premiadas, elegibilidade, desempate, periodicidade e entrega das premiações não foram definidos nesta decisão.
-- Os submenus de Usuários, Atletas e Visualização estão previstos como próximas etapas e não devem ser interpretados como telas entregues.
+- A visualização do ranking continua como próxima etapa; o protótipo não determina a implementação de suas regras ou dados.
 
 ## Referências
 
@@ -51,7 +58,8 @@ Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes.
 - Múltiplas temporadas no ano: [[90-Fontes/F24-Multiplas-temporadas-no-ano]].
 - Exclusividade anual e premiação opcional: [[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]].
 - Ajustes de interface e fluxo: [[90-Fontes/F26-Ajustes-de-interface-e-fluxo-da-premiacao]].
+- Réplica para Usuário Equipe e Atletas: [[90-Fontes/F27-Replica-da-configuracao-para-usuarios-e-atletas]].
 
 ## Conexões
 
-[[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Ranking-de-Escolas]] · [[03-Rankings/Criterios/Escola]] · [[03-Rankings/Configuracao-das-temporadas-pela-escola]] · [[03-Rankings/Periodicidade-e-temporadas]] · [[03-Rankings/Premiacoes]] · [[03-Rankings/Lacunas-da-planilha]]
+[[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Ranking-de-Escolas]] · [[03-Rankings/Ranking-de-Usuarios]] · [[03-Rankings/Ranking-de-Atletas]] · [[03-Rankings/Criterios/Escola]] · [[03-Rankings/Criterios/Usuario]] · [[03-Rankings/Criterios/Atleta]] · [[03-Rankings/Configuracao-das-temporadas-pela-escola]] · [[03-Rankings/Periodicidade-e-temporadas]] · [[03-Rankings/Premiacoes]] · [[03-Rankings/Lacunas-da-planilha]]
