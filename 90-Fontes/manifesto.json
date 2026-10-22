@@ -477,5 +477,20 @@
       "00-Mapa/Grafo-de-conhecimento.md",
       "05-Governanca/Registro-de-alteracoes.md"
     ]
+  },
+  {
+    "id": "F29",
+    "title": "Composição da visualização do Ranking de Equipes",
+    "consulted_on": "2026-10-22",
+    "snapshot": "90-Fontes/F29-Composicao-da-visualizacao-do-ranking.md",
+    "source_type": "decisão do usuário",
+    "dependent_notes": [
+      "90-Fontes/F29-Composicao-da-visualizacao-do-ranking.md",
+      "03-Rankings/Configuracao-do-ranking-de-equipes.md",
+      "03-Rankings/Ranking-de-Escolas.md",
+      "00-Mapa/Indice.md",
+      "00-Mapa/Grafo-de-conhecimento.md",
+      "05-Governanca/Registro-de-alteracoes.md"
+    ]
   }
 ]

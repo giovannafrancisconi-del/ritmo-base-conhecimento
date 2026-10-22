@@ -107,3 +107,10 @@ fontes: []
 - Inclusão do submenu Visualização abaixo das configurações do Ranking.
 - Prototipação dos filtros de abrangência para Brasil inteiro, estado e cidade.
 - A área de resultados foi mantida sem classificação, equipes ou pontuações por ausência de dados de apuração na decisão.
+
+## Versão 1.14 — 2026-10-22
+
+- Inclusão da temporada e da premiação condicional na visualização.
+- Estrutura do top 3 e da lista de escolas com nome, cidade/UF e pontuação.
+- Inclusão do botão Temporadas anteriores.
+- Dados reais de classificação continuam pendentes de fonte de apuração.

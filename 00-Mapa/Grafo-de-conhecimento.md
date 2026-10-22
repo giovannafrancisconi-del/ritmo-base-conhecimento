@@ -51,6 +51,8 @@ graph TD
   AP --> H["Histórico e auditoria"]
   AP --> EX["Exibição nos aplicativos"]
   EX --> VF["Visualização: Brasil, estado ou cidade"]
+  VF --> TS["Temporada e premiação"]
+  VF --> T3["Top 3 e lista de escolas"]
   T["Temporadas da escola"] --> AP
   T --> PR["Premiações para atletas"]
   P["Decisões de Produto pendentes"] -. "bolsistas e elegibilidade" .-> PR
@@ -92,3 +94,5 @@ graph TD
 [[90-Fontes/F27-Replica-da-configuracao-para-usuarios-e-atletas]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Criterios/Usuario]] · [[03-Rankings/Criterios/Atleta]]
 
 [[90-Fontes/F28-Visualizacao-do-ranking-de-equipes]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Ranking-de-Escolas]]
+
+[[90-Fontes/F29-Composicao-da-visualizacao-do-ranking]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Ranking-de-Escolas]]

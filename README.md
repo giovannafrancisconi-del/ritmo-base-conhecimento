@@ -8,7 +8,7 @@ fontes: []
 
 # Base de Conhecimento Ritmo — OKF
 
-Versão 1.13 · 2026-10-22
+Versão 1.14 · 2026-10-22
 
 Abra esta raiz como cofre no Obsidian e comece por [[00-Mapa/Indice]]. Os links internos usam caminhos a partir da raiz do cofre. O grafo nativo do Obsidian será formado pelos wikilinks; o mapa conceitual também está em Mermaid.
 
