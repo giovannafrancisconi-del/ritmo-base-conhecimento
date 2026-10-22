@@ -8,7 +8,7 @@ fontes: []
 
 # Base de Conhecimento Ritmo — OKF
 
-Versão 1.12 · 2026-10-22
+Versão 1.13 · 2026-10-22
 
 Abra esta raiz como cofre no Obsidian e comece por [[00-Mapa/Indice]]. Os links internos usam caminhos a partir da raiz do cofre. O grafo nativo do Obsidian será formado pelos wikilinks; o mapa conceitual também está em Mermaid.
 
@@ -27,7 +27,7 @@ Abra esta raiz como cofre no Obsidian e comece por [[00-Mapa/Indice]]. Os links 
 
 ## Limitações desta versão
 
-A planilha atualizada de pontuação foi integrada e a versão anterior foi preservada como histórico. Os vídeos de referência da avaliação de treino e da plataforma de Ranking foram analisados visualmente, sem transcrição dos áudios. O protótipo de configuração do Ranking cobre Equipes, Usuário Equipe e Atletas com a mesma estrutura de temporadas e premiação, trocando os critérios segundo as abas vigentes da planilha. Trata-se de protótipo de interface, sem afirmar persistência ou apuração em produção. Campos vazios, divergências e regras de acúmulo permanecem pendentes. Requisitos de desenvolvimento não são apresentados como entregas confirmadas. Consulte [[00-Mapa/Pendencias]] antes de definir valores ou resolver decisões de Produto.
+A planilha atualizada de pontuação foi integrada e a versão anterior foi preservada como histórico. Os vídeos de referência da avaliação de treino e da plataforma de Ranking foram analisados visualmente, sem transcrição dos áudios. O protótipo de configuração do Ranking cobre Equipes, Usuário Equipe e Atletas com a mesma estrutura de temporadas e premiação, trocando os critérios segundo as abas vigentes da planilha. A área Visualização permite escolher Brasil, estado ou cidade e permanece sem posições enquanto a fonte de apuração não for fornecida. Trata-se de protótipo de interface, sem afirmar persistência ou apuração em produção. Campos vazios, divergências e regras de acúmulo permanecem pendentes. Requisitos de desenvolvimento não são apresentados como entregas confirmadas. Consulte [[00-Mapa/Pendencias]] antes de definir valores ou resolver decisões de Produto.
 
 ## Grafo de conexões
 

@@ -59,6 +59,7 @@ Primeira etapa do protótipo do módulo **Ranking** na plataforma Ritmo Equipes.
 - Exclusividade anual e premiação opcional: [[90-Fontes/F25-Exclusividade-de-meses-e-premiacao-opcional]].
 - Ajustes de interface e fluxo: [[90-Fontes/F26-Ajustes-de-interface-e-fluxo-da-premiacao]].
 - Réplica para Usuário Equipe e Atletas: [[90-Fontes/F27-Replica-da-configuracao-para-usuarios-e-atletas]].
+- Visualização por abrangência: [[90-Fontes/F28-Visualizacao-do-ranking-de-equipes]].
 
 ## Conexões
 

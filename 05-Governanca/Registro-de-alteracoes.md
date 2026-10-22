@@ -101,3 +101,9 @@ fontes: []
 - Estrutura de temporadas, exclusividade anual de meses e premiação preservadas nos três perfis.
 - Critérios de Usuário (9) e Atleta (26) vinculados às respectivas abas da planilha F21 vigente.
 - A visualização do ranking permanece fora do escopo desta entrega.
+
+## Versão 1.13 — 2026-10-22
+
+- Inclusão do submenu Visualização abaixo das configurações do Ranking.
+- Prototipação dos filtros de abrangência para Brasil inteiro, estado e cidade.
+- A área de resultados foi mantida sem classificação, equipes ou pontuações por ausência de dados de apuração na decisão.

@@ -50,6 +50,7 @@ graph TD
   LP["Lacunas da planilha"] -. "acúmulo, prazos e campos vazios" .-> AP
   AP --> H["Histórico e auditoria"]
   AP --> EX["Exibição nos aplicativos"]
+  EX --> VF["Visualização: Brasil, estado ou cidade"]
   T["Temporadas da escola"] --> AP
   T --> PR["Premiações para atletas"]
   P["Decisões de Produto pendentes"] -. "bolsistas e elegibilidade" .-> PR
@@ -89,3 +90,5 @@ graph TD
 [[90-Fontes/F26-Ajustes-de-interface-e-fluxo-da-premiacao]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Premiacoes]]
 
 [[90-Fontes/F27-Replica-da-configuracao-para-usuarios-e-atletas]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Criterios/Usuario]] · [[03-Rankings/Criterios/Atleta]]
+
+[[90-Fontes/F28-Visualizacao-do-ranking-de-equipes]] → [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[03-Rankings/Ranking-de-Escolas]]
