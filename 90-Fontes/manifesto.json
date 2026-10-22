@@ -377,5 +377,22 @@
       "05-Governanca/Registro-de-alteracoes.md",
       "06-Midias/Catalogo-de-midias.md"
     ]
+  },
+  {
+    "id": "F23",
+    "title": "Decisão de configuração de vigência e premiação",
+    "consulted_on": "2026-10-22",
+    "snapshot": "90-Fontes/F23-Configuracao-de-vigencia-e-premiacao.md",
+    "source_type": "decisão do usuário",
+    "dependent_notes": [
+      "90-Fontes/F23-Configuracao-de-vigencia-e-premiacao.md",
+      "03-Rankings/Configuracao-do-ranking-de-equipes.md",
+      "03-Rankings/Configuracao-das-temporadas-pela-escola.md",
+      "03-Rankings/Premiacoes.md",
+      "00-Mapa/Indice.md",
+      "00-Mapa/Fontes-e-cobertura.md",
+      "00-Mapa/Grafo-de-conhecimento.md",
+      "05-Governanca/Registro-de-alteracoes.md"
+    ]
   }
 ]

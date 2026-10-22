@@ -2,8 +2,8 @@
 title: "Premiações"
 tipo: "nota"
 status: "requisito-documentado"
-atualizado_em: "2026-10-20"
-fontes: ["https://app.notion.com/p/3fbfe13c365280ef892cde6bc50c9e54?pvs=204"]
+atualizado_em: "2026-10-22"
+fontes: ["https://app.notion.com/p/3fbfe13c365280ef892cde6bc50c9e54?pvs=204", "Decisão do usuário — 2026-10-22"]
 ---
 
 # Premiações
@@ -22,10 +22,16 @@ Quando houver premiação configurada, ela deverá ficar visível no ranking, co
 
 A configuração da premiação deverá permitir identificar quais posições serão contempladas, como os três primeiros colocados, ou estabelecer outro critério de elegibilidade.
 
+## Abrangência confirmada para o protótipo
+
+- A premiação pode ser configurada para **Brasil inteiro**, com uma descrição nacional.
+- A premiação pode ser configurada **por estado**, com seleção de UF e descrição própria para cada estado.
+- Essa decisão não define posições premiadas, regras de elegibilidade, desempate ou entrega; esses itens continuam pendentes.
+
 ## Fontes
 
 - [Ranking de pontuação: Atletas, Usuários e Equipes](https://app.notion.com/p/3fbfe13c365280ef892cde6bc50c9e54?pvs=204)
 
 ## Conexões
 
-[[03-Rankings/Visao-geral-ranking]] · [[00-Mapa/Pendencias]] · [[90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes]]
+[[03-Rankings/Visao-geral-ranking]] · [[03-Rankings/Configuracao-do-ranking-de-equipes]] · [[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]] · [[00-Mapa/Pendencias]] · [[90-Fontes/F01-Ranking-de-pontuacao-Atletas-Usuarios-e-Equipes]]

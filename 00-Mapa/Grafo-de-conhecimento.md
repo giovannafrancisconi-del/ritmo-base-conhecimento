@@ -34,6 +34,10 @@ graph TD
   VC["Configuração: Equipes"] --> RE
   PL --> VC
   VR["Vídeo F22: referência visual"] -. "linguagem visual" .-> VC
+  VC --> VG["Vigência por meses"]
+  VC --> PM["Premiação"]
+  PM --> BR["Brasil inteiro"]
+  PM --> UF["Por estado"]
   VC -. "próxima etapa" .-> EX
   LP["Lacunas da planilha"] -. "acúmulo, prazos e campos vazios" .-> AP
   AP --> H["Histórico e auditoria"]
@@ -67,3 +71,5 @@ graph TD
 [[03-Rankings/Configuracao-do-ranking-de-equipes]] → [[03-Rankings/Criterios/Escola]] → [[90-Fontes/F21-Planilha-de-pontuacao-atualizada]]
 
 [[90-Fontes/F22-Video-referencia-plataforma-ranking]] -. referência visual .-> [[03-Rankings/Configuracao-do-ranking-de-equipes]]
+
+[[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]] → [[03-Rankings/Configuracao-das-temporadas-pela-escola]] · [[03-Rankings/Premiacoes]]

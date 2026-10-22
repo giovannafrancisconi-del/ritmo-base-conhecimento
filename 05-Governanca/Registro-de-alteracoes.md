@@ -67,3 +67,10 @@ fontes: []
 - Critérios apresentados no protótipo vinculados à aba Escola da planilha F21 vigente.
 - Atualização do índice, da cobertura, do catálogo de mídias e do grafo de conhecimento.
 - A tela foi registrada como protótipo de interface, sem afirmar persistência, autorização, apuração ou visualização do ranking em produção.
+
+## Versão 1.8 — 2026-10-22
+
+- Integração da decisão do usuário sobre a configuração de vigência e premiação na tela de Equipes.
+- A vigência passou a ser definida por seleção de meses, com janeiro a junho como exemplo demonstrativo.
+- A premiação passou a permitir abrangência para Brasil inteiro ou por estado, com descrição específica.
+- Elegibilidade, posições premiadas, desempate, periodicidade e entrega da premiação foram preservados como pendências.

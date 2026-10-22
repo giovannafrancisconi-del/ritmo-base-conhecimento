@@ -56,3 +56,5 @@ O manifesto JSON relaciona fontes, hashes e notas dependentes.
 [[90-Fontes/F20-Comentarios-2-e-3-prototipo-avaliacao]] — atualização das opções visuais e dos subitens exibidos no protótipo da avaliação da convocação.
 
 [[90-Fontes/F22-Video-referencia-plataforma-ranking]] — vídeo de referência visual usado no protótipo da configuração do Ranking de Equipes.
+
+[[90-Fontes/F23-Configuracao-de-vigencia-e-premiacao]] — decisão do usuário sobre meses de vigência e abrangência das premiações no protótipo.
